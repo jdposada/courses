@@ -20,13 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+email: jposada@uninorte.edu.co
+appointment_url: https://tinyurl.com/officehoursjose
+# TODO: get a link from BrightSpace
+# contact_links:
+#   - icon: comments
+#     icon_pack: fas
+#     name: Discuss on the forum on BrightSpace
+#     link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
 
 # Site header
 

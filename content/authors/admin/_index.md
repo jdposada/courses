@@ -1,37 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jose Posada
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: CS Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidad del Norte
+  url: "posadajose.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence in medicine and clinical natural langiage processing
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Artificial Intelligence in Medicine
+- Clinical Natural Language Processing
+- Clinical Research Data Wareshouses
+- Common Data Models for Clinical Data
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Biomedical Informatics
+    institution: University of Pittsburgh
+    year: 2018
+  - course: MSc Biomedical Informatics
+    institution: University of Pittsburgh
+    year: 2016
+  - course: MSc Mechanical Engineering
+    institution: Universidad del Norte
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc Electronic Engineering
+    institution: Universidad del Norte
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'jposada@uninorte.edu.co'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/posadajd
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jdposada
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
