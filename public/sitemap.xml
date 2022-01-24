@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/course/example/python/</loc>
+    <loc>courses/course/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/course/example/visualization/</loc>
+    <loc>courses/course/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/course/example/stats/</loc>
+    <loc>courses/course/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/course/example/</loc>
+    <loc>courses/course/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/course/</loc>
+    <loc>courses/course/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/data-visualization/</loc>
+    <loc>courses/tag/data-visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/statistics/</loc>
+    <loc>courses/tag/statistics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>courses/tags/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/20-12-02-icml-best-paper/</loc>
+    <loc>courses/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>courses/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/20-12-01-wowchemy-prize/</loc>
+    <loc>courses/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>courses/admin/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>courses/contact/</loc>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>courses/authors/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>courses/categories/</loc>
   </url><url>
-    <loc>/authors/admin/</loc>
+    <loc>courses/authors/admin/</loc>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>courses/publication_types/</loc>
   </url><url>
-    <loc>/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>courses/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>
