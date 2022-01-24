@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>courses/course/example/python/</loc>
+    <loc>courses/course/bioinf/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/example/visualization/</loc>
+    <loc>courses/course/bioinf/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/example/stats/</loc>
+    <loc>courses/course/bioinf/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>courses/course/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>courses/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>courses/course/bioinf/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>courses/course/oop/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>courses/course/</loc>
@@ -49,7 +52,5 @@
     <loc>courses/authors/admin/</loc>
   </url><url>
     <loc>courses/publication_types/</loc>
-  </url><url>
-    <loc>courses/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>

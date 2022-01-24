@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Visualization | Online Courses</title>
+    <title>Data Visualization | Courses</title>
     <link>courses/tag/data-visualization/</link>
       <atom:link href="courses/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualization</description>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>courses/course/example/visualization/</link>
+      <link>courses/course/bioinf/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>courses/course/example/visualization/</guid>
+      <guid>courses/course/bioinf/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
