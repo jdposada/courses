@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>main_page | Courses</title>
+    <link>courses/tag/main_page/</link>
+      <atom:link href="courses/tag/main_page/index.xml" rel="self" type="application/rss+xml" />
+    <description>main_page</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>main_page</title>
+      <link>courses/tag/main_page/</link>
+    </image>
+    
+    <item>
+      <title>Python basics</title>
+      <link>courses/course/bioinf/python/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>courses/course/bioinf/python/</guid>
+      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>courses/course/intros/week1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>courses/course/intros/week1/</guid>
+      <description>&lt;p&gt;Week 1 Intro&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>courses/course/oop/week1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>courses/course/oop/week1/</guid>
+      <description>&lt;p&gt;Week 1 OOP&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
