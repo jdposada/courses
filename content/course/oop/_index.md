@@ -1,11 +1,14 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 📊 Object Oriented Programming
+linkTitle: Object Oriented Programming
+summary: 
 date: '2021-01-24'
 type: book
-tag: oop
 ---
+
+Introduction to Object Oriented Programming
+
+<!--more-->
 
 {{< figure src="featured.jpg" >}}
 

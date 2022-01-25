@@ -11,14 +11,6 @@ main:
     url: '/course'
     weight: 20
     identifier: courses
-  - name: Bioinformatics
-    url: '/course/bioinf/'
-    weight: 10
-    parent: courses
-  - name: Object Oriented Programming
-    url: '/course/oop/'
-    weight: 10
-    parent: courses
   # - name: Blog
   #   url: '/post'
   #   weight: 30

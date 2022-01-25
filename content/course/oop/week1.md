@@ -1,14 +1,14 @@
 ---
-title: Python basics
+title: Week 1
 date: '2021-01-01'
 type: book
 weight: 20
 tags: 
  - main_page
- - bioinf
+ - oop
 ---
 
-Build a foundation in Python.
+Week 1 OOP
 
 <!--more-->
 

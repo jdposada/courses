@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Contact
 subtitle:
@@ -20,7 +20,7 @@ content:
   form:
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-Here you can find three different ways to contact me: email, schedule a 10 mins appointment with me and the forum posts on BrightSpace
+You can get in touch with me by email or by requesting an appointment. To make an appointment you do not need to email me. Just use the Google Calendar link below. Be sure to login using your university account. 

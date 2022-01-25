@@ -1,12 +1,12 @@
 ---
-title: 📊 Bioinformatics
-linkTitle: Bioinformatics
+title: 📊 Introduction to Systems Engineering
+linkTitle: Introduction to Systems Engineering
 summary: 
 date: '2021-01-24'
 type: book
 ---
 
-Introduction to Bioinformatics
+Introduction to Systems Engineering
 
 <!--more-->
 

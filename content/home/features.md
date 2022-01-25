@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Course Features
+subtitle: ✨ Each course has a combination of 
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
@@ -15,6 +15,6 @@ feature:
     description: 
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Math & Code (Jupyter Notebooks)
     description: 
 ---

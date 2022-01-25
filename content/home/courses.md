@@ -9,10 +9,14 @@ content:
   filter_default: 0
 
   filter_button:
+    - name: All Courses
+      tag: main_page
     - name: Bioinformatics
       tag: bioinf
     - name: Object Oriented Programming
       tag: oop
+    - name: Introduction to Systems Engineering
+      tag: intros
 design:
   columns: '1'
   view: 3

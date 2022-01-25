@@ -14,13 +14,14 @@ organizations:
   url: "posadajose.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence in medicine and clinical natural langiage processing
+bio: My research interests include artificial intelligence in medicine and clinical natural language processing
 
 interests:
 - Artificial Intelligence in Medicine
 - Clinical Natural Language Processing
-- Clinical Research Data Wareshouses
+- Clinical Research Data Warehouses
 - Common Data Models for Clinical Data
+- Real World Clinical Evidence Generation
 
 education:
   courses:
@@ -64,4 +65,4 @@ user_groups:
 - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include artificial intelligence in medicine and clinical natural language processing
