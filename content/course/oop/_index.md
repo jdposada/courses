@@ -6,40 +6,36 @@ date: '2021-01-24'
 type: book
 ---
 
-Introduction to Object Oriented Programming
-
 <!--more-->
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="laptop_code.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+In this course you will learn the fundamentals of object oriented programming. 
 
-## Program overview
+## Course Schedule
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+{{< gdocs src="https://docs.google.com/spreadsheets/d/1IoOI_6Uejf78fe87Ets-IkEOyQb0Kn5EuCmCBlWy7C8/edit?usp=sharing" >}}
 
-## Courses in this program
 
-{{< list_children >}}
 
-## Meet your instructor
+## Meet the team
 
 {{< mention "admin" >}}
 
-## FAQs
+## Dev Environment
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
+## Logistics and Policies
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
+### Office Hours
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+### Late Policy
+
+### Ethical Code
+
+### Students with Disabilities
+
+## References and links
