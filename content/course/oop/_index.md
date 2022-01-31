@@ -21,7 +21,6 @@ In this course you will learn the fundamentals of object oriented programming.
 {{< gdocs src="https://docs.google.com/spreadsheets/d/1IoOI_6Uejf78fe87Ets-IkEOyQb0Kn5EuCmCBlWy7C8/edit?usp=sharing" >}}
 
 
-
 ## Meet the team
 
 {{< mention "admin" >}}
