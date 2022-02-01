@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>courses/course/bioinf/python/</loc>
+    <loc>/course/bioinf/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/intros/week1/</loc>
+    <loc>/course/intros/week1/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/oop/week1/</loc>
+    <loc>/course/oop/week1/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/bioinf/visualization/</loc>
+    <loc>/course/bioinf/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/bioinf/stats/</loc>
+    <loc>/course/bioinf/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/</loc>
+    <loc>/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/intros/</loc>
+    <loc>/course/intros/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/</loc>
+    <loc>/course/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/bioinf/</loc>
+    <loc>/course/bioinf/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/course/oop/</loc>
+    <loc>/course/oop/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tag/bioinf/</loc>
+    <loc>/tag/bioinf/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tag/data-visualization/</loc>
+    <loc>/tag/data-visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tag/intros/</loc>
+    <loc>/tag/intros/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tag/main_page/</loc>
+    <loc>/tag/main_page/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tag/oop/</loc>
+    <loc>/tag/oop/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tag/statistics/</loc>
+    <loc>/tag/statistics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/post/20-12-02-icml-best-paper/</loc>
+    <loc>/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/post/20-12-01-wowchemy-prize/</loc>
+    <loc>/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>courses/admin/</loc>
+    <loc>/admin/</loc>
   </url><url>
-    <loc>courses/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>courses/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>courses/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>courses/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url><url>
-    <loc>courses/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
 </urlset>

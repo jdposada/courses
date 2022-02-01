@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📊 Object Oriented Programming | Courses</title>
-    <link>courses/course/oop/</link>
-      <atom:link href="courses/course/oop/index.xml" rel="self" type="application/rss+xml" />
+    <link>/course/oop/</link>
+      <atom:link href="/course/oop/index.xml" rel="self" type="application/rss+xml" />
     <description>📊 Object Oriented Programming</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>📊 Object Oriented Programming</title>
-      <link>courses/course/oop/</link>
+      <link>/course/oop/</link>
     </image>
     
     <item>
       <title>Week 1</title>
-      <link>courses/course/oop/week1/</link>
+      <link>/course/oop/week1/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>courses/course/oop/week1/</guid>
+      <guid>/course/oop/week1/</guid>
       <description>&lt;p&gt;Week 1 OOP&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
