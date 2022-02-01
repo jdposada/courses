@@ -8,11 +8,8 @@ main:
     url: '/'
     weight: 10
   - name: Courses
-    url: '/course'
+    url: 'course/'
     weight: 20
-  # - name: Blog
-  #   url: '/post'
-  #   weight: 30
   - name: Contact
-    url: '/contact'
+    url: 'contact/'
     weight: 30

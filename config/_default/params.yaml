@@ -47,7 +47,7 @@ time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
-relativeURLs: false
+
 highlight: false
 highlight_languages: []
 math: false
