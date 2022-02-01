@@ -47,7 +47,7 @@ time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
-
+relativeURLs: false
 highlight: false
 highlight_languages: []
 math: false
@@ -69,7 +69,7 @@ show_related:
   publication: true
   event: true
 reading_time: true
-section_pager: false
+section_pager: true
 docs_section_pager: true
 sharing: true
 copyright_license:
