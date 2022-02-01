@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Courses # Website name
-baseurl: '' # Website URL
+baseurl: 'courses' # Website URL
 copyright: '© {year} Jose D. Posada' # Footer text, e.g. '© {year} Me'
 
 ############################
