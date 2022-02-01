@@ -7,8 +7,6 @@ type: book
 weight: 30
 ---
 
-Introduction to Bioinformatics
-
 <!--more-->
 
 {{< figure src="featured.jpg" >}}
