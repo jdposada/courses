@@ -1,4 +1,4 @@
-cd /home && hugo
+cd /home && hugo --gc --minify -b https://jdposada.github.io/courses/
 cp -r public/. /home/ && rm -rf public/ \
 
 cd /home \
