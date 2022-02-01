@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>main_page | Courses</title>
-    <link>courses/tag/main_page/</link>
-      <atom:link href="courses/tag/main_page/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jdposada.github.io/courses/tag/main_page/</link>
+      <atom:link href="https://jdposada.github.io/courses/tag/main_page/index.xml" rel="self" type="application/rss+xml" />
     <description>main_page</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>main_page</title>
-      <link>courses/tag/main_page/</link>
+      <link>https://jdposada.github.io/courses/tag/main_page/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>courses/course/bioinf/python/</link>
+      <link>https://jdposada.github.io/courses/course/bioinf/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>courses/course/bioinf/python/</guid>
+      <guid>https://jdposada.github.io/courses/course/bioinf/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Week 1</title>
-      <link>courses/course/intros/week1/</link>
+      <link>https://jdposada.github.io/courses/course/intros/week1/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>courses/course/intros/week1/</guid>
+      <guid>https://jdposada.github.io/courses/course/intros/week1/</guid>
       <description>&lt;p&gt;Week 1 Intro&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Week 1</title>
-      <link>courses/course/oop/week1/</link>
+      <link>https://jdposada.github.io/courses/course/oop/week1/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>courses/course/oop/week1/</guid>
+      <guid>https://jdposada.github.io/courses/course/oop/week1/</guid>
       <description>&lt;p&gt;Week 1 OOP&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
