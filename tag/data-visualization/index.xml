@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization | Courses</title>
-    <link>https://jdposada.github.io/courses/tag/data-visualization/</link>
-      <atom:link href="https://jdposada.github.io/courses/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/data-visualization/</link>
+      <atom:link href="/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Data Visualization</title>
-      <link>https://jdposada.github.io/courses/tag/data-visualization/</link>
+      <link>/tag/data-visualization/</link>
     </image>
     
     <item>
       <title>Visualization</title>
-      <link>https://jdposada.github.io/courses/course/bioinf/visualization/</link>
+      <link>/course/bioinf/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdposada.github.io/courses/course/bioinf/visualization/</guid>
+      <guid>/course/bioinf/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
