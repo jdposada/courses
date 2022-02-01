@@ -10,10 +10,9 @@ main:
   - name: Courses
     url: '/course'
     weight: 20
-    identifier: courses
   # - name: Blog
   #   url: '/post'
   #   weight: 30
   - name: Contact
     url: '/contact'
-    weight: 60
+    weight: 30
