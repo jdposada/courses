@@ -12,28 +12,36 @@ Week 1 OOP
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 2 - 4 Hours
+
+## Assigment
+
+- Open a [Github](www.github.com) Account with your university email. If you already have one please add the university email. 
+- Request the [Github Student Developer Pack](https://education.github.com/pack)
+- Clone our course Github [Repository](https://github.com/jdposada/oop_202201) and follow the instructions there
+
+### Optional
+
+It is better if you use Linux instead of Python during this course. If you know how to do it attemp to have both installed on your computer. You could also boot linux from a USB or CD following this [instructions](https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started) 
 
 ## Learn
 
-{{< youtube rfscVS0vtbw >}}
+Below a video with some basics about command line. 
+
+Here some command lines software that runs on your browser. No install needed
+
+- https://webvm.io/
+
+Below some short tutorial that you may find useful. And you have a no-install terminal to try it!
+
+{{< youtube cBokz0LTizk >}}
+
+Here it is a longer one if you want more info. It even has more visits!
+
+{{< youtube ZtqBQ68cfJc >}}
 
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
-Lists
+Here is a very nice webpage to test your knowledge with simple questions
 
-- Lists are mutable - they can be changed
-- Slower than tuples
-- Syntax: `a_list = [1, 2.0, 'Hello world']`
-
-Tuples
-
-- Tuples are immutable - they can't be changed
-- Tuples are faster than lists 
-- Syntax: `a_tuple = (1, 2.0, 'Hello world')`
-{{< /spoiler >}}
-
-{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
-{{< /spoiler >}}
+- https://cmdchallenge.com/

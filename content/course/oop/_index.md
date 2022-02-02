@@ -19,22 +19,37 @@ In this course you will learn the basics of Object Oriented Programming
 
 ## Course Description
 
+In this course we study the concepts on which object oriented programming theory is centered, such as: abstraction, encapsulation, inheritance, and polymorphism, among others. This study of the topics is carried out through a gradual process from the concept of classes and objects to the construction of object-oriented software.
 
+The course has two great moments. The first part is focused on giving the student the theoretical tools and principles for the design of solutions to problems, through UML diagrams and their implementation in software. In the second part, the student focuses on software development from a proposed design using standard design patterns, testing their ability to interpret the designs at the time of implementation.
 
 ## Course Justification
 
+Traditional techniques (structured or procedural programming) for application development tend to produce fragile systems that are difficult to maintain, especially when their size is relatively large. Object-oriented programming emerges as a programming paradigm that helps mitigate the shortcomings of previous techniques and helps build quality software.
 
+## Main Outcome
 
-## ABET Student Outcome
+Students who successfully complete this course will be able to apply and interpret the concepts of Object Oriented Programming in the solution design processes and in the development of applications, in accordance with clear requirements and following engineering standards.
 
-(SO 2) An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. Este ítem se evaluará en el desarrollo del proyecto final, especialmente en el cumplimiento de los requerimientos de diseño.
+# Learning Outcomes
+
+- **CO1** Clearly define the basic concepts related to Object Oriented Programming. This item will be evaluated through theoretical questions where the student must clearly define the basic concepts related to OOP.
+
+- **CO2** Identify and design class structures that support the solution of a given problem. This item will be evaluated in the first part, based on the models proposed by the students for the solution of problems given in class, which should follow the OOP paradigm.
+
+- **CO3** Implement applications using a programming language, from the interpretation of a given diagram. This item will be assessed on all exams and on the lab project. Not only the operation of the application will be taken into account, but also if it complies with the OO programming paradigm and with the proposed model.
+
+- **CO4** Formulate and execute a software engineering project, with specific roles and professional guidelines, following the Object-Oriented paradigm.
+
+### ABET Student Outcome
+
+**SO(2)** An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. This item will be evaluated in the development of the final project, especially in compliance with the design requirements.
 
 https://www.abet.org/
 
 ## Course Schedule
 
 {{< gdocs src="https://docs.google.com/spreadsheets/d/1IoOI_6Uejf78fe87Ets-IkEOyQb0Kn5EuCmCBlWy7C8/edit?usp=sharing" >}}
-
 
 # Evaluations and policies
 
@@ -50,6 +65,7 @@ Below the items that will be part of the evaluation of this course. Pelase check
 
 Please note that:
 
+- All partial exams will be in-person
 - Grammar and spelling are just as important as technical aspects.
 - The works must be sent by the means specified.
 - Send your work in advance, it is possible that a day before (or the day of) delivery there will be power failures.
@@ -99,9 +115,22 @@ Please let me know if you have any documented conditions and we will do our best
 
 ## References and links
 
+### Links
+
 Below some links for further reading
 
 - https://research.google.com/colaboratory/ 
 - https://stackoverflow.com/ 
 - https://www.w3schools.com/python/ 
 
+### Books
+
+- LOTT, Steven y PHILLIPS, Dusty. Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries, Cuarta edición, 2021 [link](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented-ebook-dp-B094DJYLTV/dp/B094DJYLTV/ref=mt_other?_encoding=UTF8&me=&qid=1643818230)
+- MORENO, Juan. Programación Orientada a Objetos. Ra-Ma editorial. 2015. ISBN 9788499644875.
+- LEWIS, John y LOFTUS, William. Java software solutions: foundations of program design. 6a ed. Pearson/Addison-Wesley, 2009. Boston, Mass., USA.
+- KEOGH, Jim y GIANINI, Mario. OPP Demystified: A self-teaching Guide. Mc. Graw Hill/Orborne. 2004.
+- DEITEL, Harvey. Cómo programar en Java. Quinta Edición. Pearson. 2004.
+- SIERRA, Antonio. Programador Java 2 Certificado. Alfa-Omega Grupo Editor. 2007.
+- BOOCH, Grady. Análisis y Diseño Orientado a Objetos con Aplicaciones. Segunda Edición. Addison-Wesley. 1996.
+- WEITZENFELD, Alfredo. Ingeniería de Software orienta a objetos con UML, Java e Internet. Thomson. 
+- BOOCH, Grady. UML El lenguaje de Modelado Unificado. Pearson. 1999. 
