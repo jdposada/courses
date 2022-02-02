@@ -53,7 +53,7 @@ https://www.abet.org/
 
 # Evaluations and policies
 
-Below the items that will be part of the evaluation of this course. Pelase check the dates for each one of them on the course schedule
+Below the items that will be part of the evaluation of this course. Please check the dates for each one of them on the course schedule
 
 
 | Item 	| Weight 	|
@@ -90,9 +90,9 @@ https://tinyurl.com/officehoursjose
 
 ### Ethical Code
 
-**Plagiarisim or any form of fraud will not be tolerated.**
+**Plagiarism or any form of fraud will not be tolerated.**
 
-Plagiarism will not be tolerated in this course. Without exception, if this situation arises, an investigation process involvbing the students implicated will start, and will act in accordance with the Student Regulations of the Universidad del Norte. 
+Plagiarism will not be tolerated in this course. Without exception, if this situation arises, an investigation process involving the students implicated will start, and will act in accordance with the Student Regulations of the Universidad del Norte. 
 
 Plagiarism includes: 
 - Using content without proper reference
@@ -111,7 +111,7 @@ Additionally, all work related to this subject:
 
 ### Students with Disabilities
 
-Please let me know if you have any documented conditions and we will do our best to provide asistance
+Please let me know if you have any documented conditions and we will do our best to provide assistance
 
 ## References and links
 
@@ -125,7 +125,7 @@ Below some links for further reading
 
 ### Books
 
-- LOTT, Steven y PHILLIPS, Dusty. Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries, Cuarta edición, 2021 [link](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented-ebook-dp-B094DJYLTV/dp/B094DJYLTV/ref=mt_other?_encoding=UTF8&me=&qid=1643818230)
+- LOTT, Steven y PHILLIPS, Dusty. Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries, Fourth Edition, 2021 [link](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented-ebook-dp-B094DJYLTV/dp/B094DJYLTV/ref=mt_other?_encoding=UTF8&me=&qid=1643818230)
 - MORENO, Juan. Programación Orientada a Objetos. Ra-Ma editorial. 2015. ISBN 9788499644875.
 - LEWIS, John y LOFTUS, William. Java software solutions: foundations of program design. 6a ed. Pearson/Addison-Wesley, 2009. Boston, Mass., USA.
 - KEOGH, Jim y GIANINI, Mario. OPP Demystified: A self-teaching Guide. Mc. Graw Hill/Orborne. 2004.

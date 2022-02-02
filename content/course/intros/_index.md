@@ -15,7 +15,7 @@ weight: 10
 
 ## What you will learn
 
-In this course you will learn the basics of the wodnerful carrer you have chosen, **Systems Engineering**. We will cover the basics of Python Programming and Cloud Computing
+In this course you will learn the basics of the wonderful career you have chosen, **Systems Engineering**. We will cover the basics of Python Programming and Cloud Computing
 
 ## Course Description
 
@@ -38,7 +38,7 @@ https://www.abet.org/
 
 # Evaluations and policies
 
-Below the items that will be part of the evaluation of this course. Pelase check the dates for each one of them on the course schedule
+Below the items that will be part of the evaluation of this course. Please check the dates for each one of them on the course schedule
 
 
 | Item 	| Weight 	|
@@ -74,9 +74,9 @@ https://tinyurl.com/officehoursjose
 
 ### Ethical Code
 
-**Plagiarisim or any form of fraud will not be tolerated.**
+**Plagiarism or any form of fraud will not be tolerated.**
 
-Plagiarism will not be tolerated in this course. Without exception, if this situation arises, an investigation process involvbing the students implicated will start, and will act in accordance with the Student Regulations of the Universidad del Norte. 
+Plagiarism will not be tolerated in this course. Without exception, if this situation arises, an investigation process involving the students implicated will start, and will act in accordance with the Student Regulations of the Universidad del Norte. 
 
 Plagiarism includes: 
 - Using content without proper reference
@@ -95,7 +95,7 @@ Additionally, all work related to this subject:
 
 ### Students with Disabilities
 
-Please let me know if you have any documented conditions and we will do our best to provide asistance
+Please let me know if you have any documented conditions and we will do our best to provide assistance
 
 ## References and links
 

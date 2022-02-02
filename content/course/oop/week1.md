@@ -40,6 +40,8 @@ Here it is a longer one if you want more info. It even has more visits!
 
 {{< youtube ZtqBQ68cfJc >}}
 
+**A cheat sheet for command line** [link](https://docs.google.com/document/d/195DWljKKKw1dmplrS46DucW4pP9KjoqnN-Yas3sQkLU/edit)
+
 ## Quiz
 
 Here is a very nice webpage to test your knowledge with simple questions
