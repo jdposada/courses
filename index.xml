@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses</title><link>https://jdposada.github.io/courses/</link><atom:link href="https://jdposada.github.io/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Courses</title><link>https://jdposada.github.io/courses/</link></image><item><title>Python basics</title><link>https://jdposada.github.io/courses/course/bioinf/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses</title><link>https://jdposada.github.io/courses/</link><atom:link href="https://jdposada.github.io/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Courses</title><link>https://jdposada.github.io/courses/</link></image><item><title>Week 1</title><link>https://jdposada.github.io/courses/course/oop/week1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week1/</guid><description>&lt;p>Week 1 OOP&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -25,99 +25,39 @@
 &lt;details class="spoiler " id="spoiler-3">
 &lt;summary>Is Python case-sensitive?&lt;/summary>
 &lt;p>Yes&lt;/p>
-&lt;/details></description></item><item><title>Week 1</title><link>https://jdposada.github.io/courses/course/intros/week1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week1/</guid><description>&lt;p>Week 1 Intro&lt;/p>
+&lt;/details></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/intros/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week2/</guid><description>&lt;p>Week 2: Systems Engineering and its Applications&lt;/p>
 &lt;p>
-&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 15 mins&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a video that explains what is a Full Stack Developer in the context of web development.&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/FXTqPsvVT6k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;h2 id="quiz">Quiz&lt;/h2>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
 &lt;details class="spoiler " id="spoiler-2">
-&lt;summary>What is the difference between lists and tuples?&lt;/summary>
+&lt;summary>What are the two roles a &lt;strong>Full Stack&lt;/strong> developer should do?&lt;/summary>
 &lt;p>&lt;p>Lists&lt;/p>
 &lt;ul>
-&lt;li>Lists are mutable - they can be changed&lt;/li>
-&lt;li>Slower than tuples&lt;/li>
-&lt;li>Syntax: &lt;code>a_list = [1, 2.0, 'Hello world']&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;p>Tuples&lt;/p>
-&lt;ul>
-&lt;li>Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li>
-&lt;li>Tuples are faster than lists&lt;/li>
-&lt;li>Syntax: &lt;code>a_tuple = (1, 2.0, 'Hello world')&lt;/code>&lt;/li>
+&lt;li>Frontend Developer&lt;/li>
+&lt;li>Backend Developer&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details>
 &lt;details class="spoiler " id="spoiler-3">
-&lt;summary>Is Python case-sensitive?&lt;/summary>
-&lt;p>Yes&lt;/p>
-&lt;/details></description></item><item><title>Week 1</title><link>https://jdposada.github.io/courses/course/oop/week1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week1/</guid><description>&lt;p>Week 1 OOP&lt;/p>
-&lt;p>
-&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
-&lt;h2 id="learn">Learn&lt;/h2>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;h2 id="quiz">Quiz&lt;/h2>
-&lt;details class="spoiler " id="spoiler-2">
-&lt;summary>What is the difference between lists and tuples?&lt;/summary>
-&lt;p>&lt;p>Lists&lt;/p>
-&lt;ul>
-&lt;li>Lists are mutable - they can be changed&lt;/li>
-&lt;li>Slower than tuples&lt;/li>
-&lt;li>Syntax: &lt;code>a_list = [1, 2.0, 'Hello world']&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;p>Tuples&lt;/p>
-&lt;ul>
-&lt;li>Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li>
-&lt;li>Tuples are faster than lists&lt;/li>
-&lt;li>Syntax: &lt;code>a_tuple = (1, 2.0, 'Hello world')&lt;/code>&lt;/li>
+&lt;summary>Which Two languages are part of &lt;strong>frontend&lt;/strong> development?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>HTML&lt;/li>
+&lt;li>Java Script&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;details class="spoiler " id="spoiler-3">
-&lt;summary>Is Python case-sensitive?&lt;/summary>
-&lt;p>Yes&lt;/p>
-&lt;/details></description></item><item><title>Visualization</title><link>https://jdposada.github.io/courses/course/bioinf/visualization/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/visualization/</guid><description>&lt;p>Learn how to visualize data with Plotly.&lt;/p>
-&lt;p>
-&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
-&lt;h2 id="learn">Learn&lt;/h2>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/hSPmj7mK6ng" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;h2 id="quiz">Quiz&lt;/h2>
-&lt;details class="spoiler " id="spoiler-2">
-&lt;summary>When is a heatmap useful?&lt;/summary>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p>
-&lt;/details>
-&lt;details class="spoiler " id="spoiler-3">
-&lt;summary>Write Plotly code to render a bar chart&lt;/summary>
-&lt;p>&lt;pre>&lt;code class="language-python">import plotly.express as px
-data_canada = px.data.gapminder().query(&amp;quot;country == 'Canada'&amp;quot;)
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-&lt;/code>&lt;/pre>
+&lt;details class="spoiler " id="spoiler-4">
+&lt;summary>Which Two languages are part of &lt;strong>backend&lt;/strong> development?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Ruby&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Statistics</title><link>https://jdposada.github.io/courses/course/bioinf/stats/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/stats/</guid><description>&lt;p>Introduction to statistics for data science.&lt;/p>
-&lt;p>
-&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
-&lt;h2 id="learn">Learn&lt;/h2>
-&lt;p>The general form of the &lt;strong>normal&lt;/strong> probability density function is:&lt;/p>
-&lt;p>$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-&lt;/div>
-&lt;/div>
-&lt;h2 id="quiz">Quiz&lt;/h2>
-&lt;details class="spoiler " id="spoiler-2">
-&lt;summary>What is the parameter $\mu$?&lt;/summary>
-&lt;p>The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p>
 &lt;/details></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
 &lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
