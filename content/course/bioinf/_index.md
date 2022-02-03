@@ -27,7 +27,7 @@ In this course you will learn the basics of Artificial Intelligence in Medicine.
 
 ## Course Schedule
 
-{{< gdocs src="https://docs.google.com/spreadsheets/d/1U5p3WOuy73GZ0NXHw7Jxc3aPj3pDrMbBrLoCpZRTHTw/edit?usp=sharing" >}}
+{{< gdocs src="https://docs.google.com/spreadsheets/d/1JPEow7171ZaU39LCoPbM04CvwhMqsxsLqf-KKUUJV34/edit?usp=sharing" >}}
 
 
 # Evaluations and policies
@@ -37,11 +37,10 @@ Below the items that will be part of the evaluation of this course. Please check
 
 | Item 	| Weight 	|
 |:---:	|:---:	|
-| Activity 1 	| 20% 	|
-| Activity 2 	| 20% 	|
-| Activity 3 	| 20% 	|
-| Analytic Project 	| 20% 	|
-| Poster Session 	| 20% 	|
+| 1st Partial Exam 	| 35% 	|
+| Preliminary Project	| 10% 	|
+| 2nd Partial Exam 	| 20% 	|
+| Final Project 	| 35% 	|
 
 Please note that:
 
@@ -61,7 +60,7 @@ The primary language of this course will be R
 
 We will use [Jupyter Notebooks](https://jupyter.org/) running on [Google Colab](https://colab.to/r). We will cover both things on the course, but feel free to peek! 
 
-We will also use our Github Repo. There you will find the development environment 
+We will also use our Github Repo (to be posted next week). There you will find the development environment 
 
 
 ### Office Hours
@@ -97,11 +96,20 @@ Please let me know if you have any documented conditions and we will do our best
 
 ## References and links
 
-Below some links for further reading
+### Links and Articles
 
-- https://research.google.com/colaboratory/ 
-- https://www.datos.gov.co/ 
-- https://stackoverflow.com/ 
-- https://www.w3schools.com/python/ 
+- https://doctorpenguin.com/newsletters
+- [Artificial Intelligence: Promise, Pitfalls, and Perspective](https://jamanetwork.com/journals/jama/fullarticle/2766942)
+- [HADES: Health Analytics Data-to-Evidence Suite](https://ohdsi.github.io/Hades/)
+- [Democratizing EHR analyses with FIDDLE: a flexible data-driven preprocessing pipeline for structured clinical data](https://academic.oup.com/jamia/article/27/12/1921/5920826)
+    - [Github Repo](https://github.com/MLD3/FIDDLE)
+- [Predicting Response to Tocilizumab Monotherapy in Rheumatoid Arthritis: A Real-world Data Analysis Using Machine Learning](https://www.jrheum.org/content/48/9/1364.abstract)
+- [MedKnowts: Unified Documentation and Information Retrieval for Electronic Health Records](https://dl.acm.org/doi/fullHtml/10.1145/3472749.3474814)
+- [OMOP_learn](https://github.com/clinicalml/omop-learn)
 
+### Books
 
+- Primary Book: [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/). It is free to read and download
+- [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638)
+- [Leveraging Data Science for Global Health](https://www.amazon.com/Leveraging-Data-Science-Global-Health-ebook/dp/B08F3QBRMX)
+- [Artificial Intelligence In Medicine](https://www.amazon.com/Artificial-Intelligence-Medicine-Peter-Szolovits-ebook/dp/B07VB5GXMS/ref=sr_1_10?crid=1YQ99A71WAIKM&keywords=Artificial+Intelligence+In+Medicine&qid=1643912371&sprefix=artificial+intelligence+in+medicine%2Caps%2C368&sr=8-10)
