@@ -2,7 +2,7 @@
 title: Week 2
 date: '2021-02-09'
 type: book
-weight: 20
+weight: 30
 tags: 
  - main_page
  - oop
