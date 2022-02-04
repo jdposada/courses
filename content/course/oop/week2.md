@@ -22,8 +22,6 @@ Week 2 OOP
 
 ## Quiz
 
-{{< /spoiler >}}
-
 {{< spoiler text="What are the key features of Python?" >}}
 
 - Python is an interpreted language
@@ -32,8 +30,6 @@ Week 2 OOP
 {{< /spoiler >}}
 
 
-{{< /spoiler >}}
-
 {{< spoiler text="Are Python Lists Mutable?" >}}
 
 - Yes
@@ -41,18 +37,12 @@ Week 2 OOP
 {{< /spoiler >}}
 
 
-
-{{< /spoiler >}}
-
 {{< spoiler text="Are Python Tuples Mutable?" >}}
 
 - No
 
 {{< /spoiler >}}
 
-
-
-{{< /spoiler >}}
 
 {{< spoiler text="If I have this list `a = [2, 4, 8, 10, 3, 2]` and write this slice `a[1:3]` *what is the result?* " >}}
 

@@ -23,7 +23,6 @@ Below a video that explains what is a Full Stack Developer in the context of web
 ## Brief Quiz
 
 {{< spoiler text="What are the two roles a **Full Stack** developer should do?" >}}
-Lists
 
 - Frontend Developer
 - Backend Developer
