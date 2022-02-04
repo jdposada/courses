@@ -1,6 +1,6 @@
 ---
 title: Week 2
-date: '2021-02-09'
+date: '2021-01-01'
 type: book
 weight: 30
 ---
