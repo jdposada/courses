@@ -106,6 +106,8 @@ Please let me know if you have any documented conditions and we will do our best
 - [Predicting Response to Tocilizumab Monotherapy in Rheumatoid Arthritis: A Real-world Data Analysis Using Machine Learning](https://www.jrheum.org/content/48/9/1364.abstract)
 - [MedKnowts: Unified Documentation and Information Retrieval for Electronic Health Records](https://dl.acm.org/doi/fullHtml/10.1145/3472749.3474814)
 - [OMOP_learn](https://github.com/clinicalml/omop-learn)
+- [The Framing of machine learning risk prediction models illustrated by evaluation of sepsis in general wards](https://www.nature.com/articles/s41746-021-00529-x)
+- [Deep phenotyping of Alzheimer’s disease leveraging electronic medical records identifies sex-specific clinical associations](https://www.nature.com/articles/s41467-022-28273-0)
 
 ### Books
 

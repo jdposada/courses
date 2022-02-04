@@ -14,7 +14,7 @@ Week 1 OOP
 
 {{< icon name="clock" pack="fas" >}} 2 - 4 Hours
 
-## Assigment
+## Assignment
 
 - Open a [Github](www.github.com) Account with your university email. If you already have one please add the university email. 
 - Request the [Github Student Developer Pack](https://education.github.com/pack)
