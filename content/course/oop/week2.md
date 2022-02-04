@@ -3,9 +3,6 @@ title: Week 2
 date: '2021-02-09'
 type: book
 weight: 30
-tags: 
- - main_page
- - oop
 ---
 
 Week 2 OOP
