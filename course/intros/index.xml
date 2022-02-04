@@ -9,8 +9,7 @@
 &lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
 &lt;details class="spoiler " id="spoiler-2">
 &lt;summary>What are the two roles a &lt;strong>Full Stack&lt;/strong> developer should do?&lt;/summary>
-&lt;p>&lt;p>Lists&lt;/p>
-&lt;ul>
+&lt;p>&lt;ul>
 &lt;li>Frontend Developer&lt;/li>
 &lt;li>Backend Developer&lt;/li>
 &lt;/ul>
