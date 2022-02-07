@@ -8,9 +8,9 @@
 &lt;li>Clone our course Github &lt;a href="https://github.com/jdposada/oop_202201" target="_blank" rel="noopener">Repository&lt;/a> and follow the instructions there&lt;/li>
 &lt;/ul>
 &lt;h3 id="optional">Optional&lt;/h3>
-&lt;p>It is better if you use Linux instead of Python during this course. If you know how to do it attemp to have both installed on your computer. You could also boot linux from a USB or CD following this &lt;a href="https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started" target="_blank" rel="noopener">instructions&lt;/a>&lt;/p>
+&lt;p>It is better if you use Linux OS instead of Windows OS during this course. If you know how to do it attempt to have both installed on your computer. You could also boot linux from a USB or CD following &lt;a href="https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started" target="_blank" rel="noopener">this instructions&lt;/a>&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
-&lt;p>Below a video with some basics about command line.&lt;/p>
+&lt;h3 id="below-a-video-with-some-basics-about-command-line">Below a video with some basics about command line.&lt;/h3>
 &lt;p>Here some command lines software that runs on your browser. No install needed&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://webvm.io/" target="_blank" rel="noopener">https://webvm.io/&lt;/a>&lt;/li>
@@ -19,11 +19,11 @@
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/cBokz0LTizk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;p>Here it is a longer one if you want more info. It even has more visits!&lt;/p>
+&lt;h3 id="here-it-is-a-longer-one-if-you-want-more-info-it-even-has-more-visits">Here it is a longer one if you want more info. It even has more visits!&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/ZtqBQ68cfJc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;p>&lt;strong>A cheat sheet for command line&lt;/strong> &lt;a href="https://docs.google.com/document/d/195DWljKKKw1dmplrS46DucW4pP9KjoqnN-Yas3sQkLU/edit" target="_blank" rel="noopener">link&lt;/a>&lt;/p>
+&lt;h3 id="a-cheat-sheet-for-command-linehttpsdocsgooglecomdocumentd195dwljkkkw1dmplrs46ducw4pp9kjoqnn-yas3sqkluedit">&lt;a href="https://docs.google.com/document/d/195DWljKKKw1dmplrS46DucW4pP9KjoqnN-Yas3sQkLU/edit" target="_blank" rel="noopener">A cheat sheet for command line&lt;/a>&lt;/h3>
 &lt;h2 id="quiz">Quiz&lt;/h2>
 &lt;p>Here is a very nice webpage to test your knowledge with simple questions&lt;/p>
 &lt;ul>
@@ -36,12 +36,23 @@
 &lt;li>This week your main assignment will be to follow the instructions in this &lt;a href="https://github.com/jdposada/oop_202201#remote-development-environment-on-cloud" target="_blank" rel="noopener">section&lt;/a> of our Github Repo.&lt;/li>
 &lt;li>You should also check the tutorial below and get some Python knowledge&lt;/li>
 &lt;/ul>
-&lt;h2 id="learn">Learn&lt;/h2>
+&lt;h3 id="optional">Optional&lt;/h3>
+&lt;p>Below some resources to improve your teamwork&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/hHIikHJV9fI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/fRj7Am63wVc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="basic-intro-to-python">Basic Intro to Python&lt;/h2>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/kqtD5dpn9C8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;h2 id="quiz">Quiz&lt;/h2>
-&lt;details class="spoiler " id="spoiler-2">
+&lt;details class="spoiler " id="spoiler-4">
 &lt;summary>What are the key features of Python?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Python is an interpreted language&lt;/li>
@@ -49,21 +60,21 @@
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;details class="spoiler " id="spoiler-3">
+&lt;details class="spoiler " id="spoiler-5">
 &lt;summary>Are Python Lists Mutable?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Yes&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;details class="spoiler " id="spoiler-4">
+&lt;details class="spoiler " id="spoiler-6">
 &lt;summary>Are Python Tuples Mutable?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>No&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;details class="spoiler " id="spoiler-5">
+&lt;details class="spoiler " id="spoiler-7">
 &lt;summary>If I have this list &lt;code>a = [2, 4, 8, 10, 3, 2]&lt;/code> and write this slice &lt;code>a[1:3]&lt;/code> &lt;em>what is the result?&lt;/em>&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>[4, 8]&lt;/li>
