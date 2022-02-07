@@ -25,4 +25,6 @@ advanced:
 ---
 <br>
 
-Welcome to my courses webpage. In this webpage you will find the material for my 2022 courses
+Welcome to my courses webpage. In this webpage you will find the material for my 2022 courses.
+
+Consider adding the site to your favorite [RSS feeder](https://feeder.co/) to keep up with the updated content
