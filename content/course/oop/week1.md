@@ -22,11 +22,11 @@ Week 1 OOP
 
 ### Optional
 
-It is better if you use Linux instead of Python during this course. If you know how to do it attemp to have both installed on your computer. You could also boot linux from a USB or CD following this [instructions](https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started) 
+It is better if you use Linux OS instead of Windows OS during this course. If you know how to do it attempt to have both installed on your computer. You could also boot linux from a USB or CD following [this instructions](https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started) 
 
 ## Learn
 
-Below a video with some basics about command line. 
+### Below a video with some basics about command line. 
 
 Here some command lines software that runs on your browser. No install needed
 
@@ -36,11 +36,11 @@ Below some short tutorial that you may find useful. And you have a no-install te
 
 {{< youtube cBokz0LTizk >}}
 
-Here it is a longer one if you want more info. It even has more visits!
+### Here it is a longer one if you want more info. It even has more visits!
 
 {{< youtube ZtqBQ68cfJc >}}
 
-**A cheat sheet for command line** [link](https://docs.google.com/document/d/195DWljKKKw1dmplrS46DucW4pP9KjoqnN-Yas3sQkLU/edit)
+### [A cheat sheet for command line](https://docs.google.com/document/d/195DWljKKKw1dmplrS46DucW4pP9KjoqnN-Yas3sQkLU/edit)
 
 ## Quiz
 

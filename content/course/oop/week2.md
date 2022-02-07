@@ -16,7 +16,17 @@ Week 2 OOP
 - This week your main assignment will be to follow the instructions in this [section](https://github.com/jdposada/oop_202201#remote-development-environment-on-cloud) of our Github Repo.
 - You should also check the tutorial below and get some Python knowledge
 
-## Learn
+### Optional
+
+Below some resources to improve your teamwork 
+
+{{< youtube hHIikHJV9fI >}}
+
+-
+
+{{< youtube fRj7Am63wVc >}}
+
+## Basic Intro to Python
 
 {{< youtube kqtD5dpn9C8 >}}
 
@@ -49,8 +59,6 @@ Week 2 OOP
 - [4, 8]
 
 {{< /spoiler >}}
-
-
 
 
 
