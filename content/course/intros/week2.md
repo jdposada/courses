@@ -14,6 +14,10 @@ Week 2: Systems Engineering and its Applications
 
 {{< icon name="clock" pack="fas" >}} 15 mins
 
+## Class Content
+
+Here the [link](https://docs.google.com/presentation/d/1EnD_fKsua7n3DPOhAoY1IljUbWk64ruHwslZ6bHdzXU/edit?usp=sharing) for our class slides. To access it you need to login with your University Google account.
+
 ## Learn
 
 Below a video that explains what is a Full Stack Developer in the context of web development.

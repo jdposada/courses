@@ -122,6 +122,7 @@ Below some links for further reading
 - https://research.google.com/colaboratory/ 
 - https://stackoverflow.com/ 
 - https://www.w3schools.com/python/ 
+- [PlantUML language specification](https://plantuml.com/class-diagram)
 
 ### Books
 
