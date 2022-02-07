@@ -16,19 +16,20 @@ Week 1 Bioinformatics
 - Open a [Github](www.github.com) Account with your university email. If you already have one please add the university email. 
 - Request the [Github Student Developer Pack](https://education.github.com/pack)
 - Request access to [MIMIC III](https://physionet.org/content/mimiciii/1.4/), [MIMIC IV](https://physionet.org/content/mimiciv/1.0/) and the [MIMIC IV demo](https://physionet.org/content/mimic-iv-demo-omop/0.9/) in the OMOP-CDM format and the [MIMIC III demo](https://physionet.org/content/mimiciii-demo/1.4/)
-- Watch all the videos and Read the articles with links at the bottom of this webpage
+- Watch *all the videos* and *Read all the articles* with links at the bottom of this webpage
 
 ## Learn
 
 A short explanation of US Healthcare and Canadian Healthcare
 
 {{< youtube DublqkOSBBA >}}
-
+-
 {{< youtube heK471H-s1s >}}
 
 ### Colombian Healthcare System
 
 {{< youtube J4b3PKtuznU >}}
+-
 {{< youtube txpdniOQdWI >}}
 
 ## Readings
