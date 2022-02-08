@@ -82,6 +82,10 @@ We will use [Jupyter Notebooks](https://jupyter.org/) running on [Google Colab](
 
 We will use Docker, VSCode and we have a [Github Repo](https://github.com/jdposada/oop_202201) with teh code we will use during the course
 
+### Issues
+
+If you have any issues with the Dev repo, please report it as a [Github Issue](https://github.com/jdposada/oop_202201/issues). In this way everyone that has the same problem will find the solution to it when is given.
+
 ### Office Hours
 
 To schedule office hours please use the following link to reserve a time with me. 
