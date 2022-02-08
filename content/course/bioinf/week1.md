@@ -38,3 +38,7 @@ I suggest you read this material before our class
 
 - [Digital health ecosystems: A payer perspective](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/digital-health-ecosystems-a-payer-perspective)
 - [Digital transformation From a buzzword to an imperative for health systems](https://www2.deloitte.com/us/en/insights/industry/health-care/digital-transformation-in-healthcare.html)
+
+### Optional
+
+- [Foundation of AI in Healthcare and MedTech with Jonathan Chen, MD, PhD, Stanford](https://www.medicaldevicesuccess.com/2022/02/06/episode-79-foundation-of-ai-in-healthcare-and-medtech-with-jonathan-chen-md-phd-stanford/)
