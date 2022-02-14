@@ -1,0 +1,35 @@
+---
+title: Week 1
+date: '2021-01-01'
+type: book
+weight: 30
+---
+
+Week 2 Bioinformatics
+
+<!--more-->
+
+{{< icon name="clock" pack="fas" >}} 2 - 4 Hours
+
+## Assignment
+
+- Read everything **Readings section**
+- Follow the instructions to setup our development environment. The instructions are available on our course [Github repo](https://github.com/jdposada/bioinf_202210).
+- Open an [Azure for Students](https://azure.microsoft.com/en-us/free/students/) account with your University email. This account and the credits given does nto require you to provide a credit card.
+- Open a [Google Cloud account](https://edu.google.com/programs/benefits/students/?modal_active=none) with your university email. This one may require you to have a credit card.
+- Watch (and hopefully follow) the short R tutorial
+
+
+## Readings
+
+- [Andrew Ng Launches A Campaign For Data-Centric AI](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=4177307d74f5)
+- [How data standardization can improve patient outcomes](https://www.experian.com/blogs/healthcare/2021/08/data-standardization-can-improve-patient-outcomes/)
+-[La agenda de Salud Digital para generar interoperabilidad](https://www.minsalud.gov.co/Paginas/La-agenda-de-Salud-Digital-para-generar-interoperabilidad.aspx)
+-[Así funcionará la historia clínica electrónica en Colombia](https://www.minsalud.gov.co/Paginas/Asi-funcionara-la-historia-clinica-electronica-en-Colombia.aspx)
+
+
+## Learn
+
+A short tutorial on R
+
+{{< youtube fDRa82lxzaU >}}

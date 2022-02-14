@@ -31,6 +31,10 @@
 &lt;/ul></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week2/</guid><description>&lt;p>Week 2 OOP&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 4 - 6 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Here the &lt;a href="https://docs.google.com/presentation/d/1hl9qgP9s2F58Rb9-UZ2FQHpochYiCgkSDXTswhQLB14/edit?usp=sharing" target="_blank" rel="noopener">link&lt;/a> for the slides we used in class&lt;/li>
+&lt;/ul>
 &lt;h2 id="assignment">Assignment&lt;/h2>
 &lt;ul>
 &lt;li>This week your main assignment will be to follow the instructions in this &lt;a href="https://github.com/jdposada/oop_202201#remote-development-environment-on-cloud" target="_blank" rel="noopener">section&lt;/a> of our Github Repo.&lt;/li>
@@ -81,4 +85,16 @@
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;p>Questions taken and modified from &lt;a href="https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Questions taken and modified from &lt;a href="https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Week 3 OOP&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>The link for class slides will be here at the end of the week&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Read the &lt;a href="https://plantuml.com/class-diagram" target="_blank" rel="noopener">Plant UML language specification&lt;/a> for a Class Diagram&lt;/li>
+&lt;li>Run the Plant UML code generated in our last class but inside VS code. Instructions in how to do that can be found &lt;a href="https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
+&lt;li>Search on the web for a real case us of UML to specify a class diagram for a Python application. It does not need to be complicated and it is ok if you do not understand everything that is going on.&lt;/li>
+&lt;/ul></description></item></channel></rss>
