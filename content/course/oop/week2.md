@@ -11,6 +11,10 @@ Week 2 OOP
 
 {{< icon name="clock" pack="fas" >}} 4 - 6 Hours
 
+## Class content
+
+- Here the [link](https://docs.google.com/presentation/d/1hl9qgP9s2F58Rb9-UZ2FQHpochYiCgkSDXTswhQLB14/edit?usp=sharing) for the slides we used in class
+
 ## Assignment
 
 - This week your main assignment will be to follow the instructions in this [section](https://github.com/jdposada/oop_202201#remote-development-environment-on-cloud) of our Github Repo.
