@@ -32,4 +32,39 @@
 &lt;li>Python&lt;/li>
 &lt;/ul>
 &lt;/p>
+&lt;/details></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/intros/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week3/</guid><description>&lt;p>Week 3: Intro to Google Colab and Python&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> mins&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;p>Here the &lt;a href="https://colab.research.google.com/drive/1uhcjy643ZrRf_5UnN0yabbVnZHiQADZc?usp=sharing" target="_blank" rel="noopener">link&lt;/a> to the Jupyter Notebook we showed on Google Colab&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a short introductory video on Google Colab&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/inN8seMm7UI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>Where is the Jupyter Notebook running when you execute the cells inside a Google Colab&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>On a Virtual Machine on the Cloud&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/intros/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week4/</guid><description>&lt;p>Week 4: List, Dictionaries and Tuples in Python&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 45 mins&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;p>During class we will cover the basics of Lists, dictionaries and tuples in Python and some fun exercises with them.&lt;/p>
+&lt;p>Here will be the link for the Jupyter Notebook to be used during class&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a short video if you want to start learning some of the content before class and come with awesome questions.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/n0krwG38SHI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>Can I change the contents of a tuple once created?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Once created you cannot change the contents of a tuple. This characteristic is called &lt;em>immutable&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;/p>
 &lt;/details></description></item></channel></rss>

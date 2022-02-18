@@ -85,16 +85,53 @@
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;p>Questions taken and modified from &lt;a href="https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Week 3 OOP&lt;/p>
+&lt;p>Questions taken and modified from &lt;a href="https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Week 3 OOP&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
 &lt;ul>
-&lt;li>The link for class slides will be here at the end of the week&lt;/li>
+&lt;li>Encapsulation and composition class slides &lt;a href="https://docs.google.com/presentation/d/1EHxluyrsUO5fgy0kgzoxXbIliamj5RV7Il009loAfSI/edit?usp=sharing" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
 &lt;li>Read the &lt;a href="https://plantuml.com/class-diagram" target="_blank" rel="noopener">Plant UML language specification&lt;/a> for a Class Diagram&lt;/li>
 &lt;li>Run the Plant UML code generated in our last class but inside VS code. Instructions in how to do that can be found &lt;a href="https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
 &lt;li>Search on the web for a real case us of UML to specify a class diagram for a Python application. It does not need to be complicated and it is ok if you do not understand everything that is going on.&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Few videos with nice short tutorials to create Class Diagrams with Plant UML. The last one is using Lucid Chart but it is a nice video for UML for class diagrams&lt;/p>
+&lt;h2 id="hahahugoshortcode-s1-hbhb">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/46m3_03uzfw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/h2>
+&lt;h2 id="hahahugoshortcode-s2-hbhb">
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Dd0bJlHDwLY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/UI6lqHOVHic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/oop/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week4/</guid><description>&lt;p>Week 4 OOP&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Class slides will be posted here&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Run inside the dev container and/or the virtual machine on Azure within VS Code
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/concept_image.py" target="_blank" rel="noopener">concept_image.py&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/distance_images.py" target="_blank" rel="noopener">distance_images.py&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bring an idea for the project you want to work on. We will discuss your idea during regular class times on Thursday&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Here a &lt;a href="https://code.visualstudio.com/docs/python/jupyter-support-py#_jupyter-code-cells" target="_blank" rel="noopener">link&lt;/a> with a description about the Jupyter cells that we are using in the code you need to run as assignment this week. Is a slightly different way to run a jupyter notebook using an interactive window.&lt;/p>
+&lt;p>Below a short video that have a brief explanation about this feature in VS code&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/lwN4-W1WR84" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item></channel></rss>
