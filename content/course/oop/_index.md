@@ -82,15 +82,32 @@ We will use [Jupyter Notebooks](https://jupyter.org/) running on [Google Colab](
 
 We will use Docker, VSCode and we have a [Github Repo](https://github.com/jdposada/oop_202201) with teh code we will use during the course
 
+## Final Project
+
+Here is the [link](https://docs.google.com/document/d/1KtmSEZCITYOeRb2JGNDrIiH3FB3BHTF8wLZ6acoCzrM/edit?usp=sharing) with the document that delineates the final project. Feel fre to add comments or ask in class if there is anything that does not seem clear to you
+
 ### Issues
 
 If you have any issues with the Dev repo, please report it as a [Github Issue](https://github.com/jdposada/oop_202201/issues). In this way everyone that has the same problem will find the solution to it when is given.
 
 ### Office Hours
 
+#### Office hours with Teacher
+
 To schedule office hours please use the following link to reserve a time with me. 
 
 https://tinyurl.com/officehoursjose
+
+#### Monitor Office Hours
+
+* **Name**: Kemer Jimenez
+* **Email**: kemerj
+* **Times**:
+    * Mondays 10:30 AM - 11:30 AM
+    * Fridays 9:30 AM  - 10:30 AM
+
+Here the [link](https://docs.google.com/forms/d/e/1FAIpQLSf8xbBEe916wqgPXm2ShCX-Bo6TBHMFpii-uFipj8xKszI1Zg/viewform) with the form to ask questions before you go to office hours with him
+
 
 ### Ethical Code
 

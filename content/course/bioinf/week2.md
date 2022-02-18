@@ -1,15 +1,19 @@
 ---
-title: Week 1
+title: Week 2
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Week 1 Bioinformatics
+Week 2: Intro to Healthcare
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 2 - 4 Hours
+
+## Class Content
+
+During class we will see the Journey of a patient through the healthcare system and the different systems in place that assist him and the healthcare providers through the journey of accessing and delivering care. 
 
 ## Assignment
 

@@ -1,15 +1,19 @@
 ---
-title: Week 1
+title: Week 3
 date: '2021-01-01'
 type: book
 weight: 30
 ---
 
-Week 2 Bioinformatics
+Week 3: Clinical Data and Standardization
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 2 - 4 Hours
+
+## Class Content
+
+During class we will see the need for Interoperability. We will see the differences between basic interoperability (scheme, messages, etc...) and semantic interoperability. The we will zoom in into the different information systems a hospital may have (LIMS, PCAS, Waveforms, Appointments, etc...) and how they can communicate between them and with another healthcare institution. After that we will briefly touch upon HL7 V2 and FHIR to explain the needs of Controlled terminologies/vocabularies and Ontologies. We will zoom in into [ICD-10](https://www.who.int/standards/classifications/classification-of-diseases) and [SNOMED-CT](https://bioportal.bioontology.org/ontologies/SNOMEDCT) and explain the differences between them.
 
 ## Assignment
 
