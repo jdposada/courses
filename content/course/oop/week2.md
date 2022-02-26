@@ -5,7 +5,7 @@ type: book
 weight: 30
 ---
 
-Week 2 OOP
+Week 2: Classes and Objects
 
 <!--more-->
 

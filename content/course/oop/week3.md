@@ -5,7 +5,7 @@ type: book
 weight: 40
 ---
 
-Week 3 OOP
+Week 3: Relationships between classes and Encapsulation
 
 <!--more-->
 
