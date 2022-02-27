@@ -18,8 +18,9 @@ Week 5: Dataframes part 1: Open data by MinTIC + Pandas + Variables types
 - [Colombian Government Open Data webpage](https://datos.gov.co)
     - **A**pplication **P**rogramming **I**nterface (**API**) for Colombian Government Open Data: [SODA](https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4)
 
-## Assignment
+## Assignments
 
+- Create a Python list with heights and names.
 - Here the [link](https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link) to upload your work the first Activity. Due date and all the details are in this Google Colab. Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email 
 
 ## Learn
