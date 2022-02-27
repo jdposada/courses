@@ -5,7 +5,7 @@ type: book
 weight: 50
 ---
 
-Week 4 OOP
+Week 4: Python Refresher and Basic Inheritance
 
 <!--more-->
 
@@ -13,14 +13,16 @@ Week 4 OOP
 
 ## Class content
 
-- Class slides will be posted here
+- **Slides**
+    - [Case Study: Iris Dataset Classification Problem](https://docs.google.com/presentation/d/1eWx7L2RfxmfWL7xL9umvxCgU855xy5bcnBRRm33f8kI/edit?usp=sharing)
+    - [Basic Inheritance](https://docs.google.com/presentation/d/1216uL3GXLOr7Lo2zRN93AznPA5pIQ6-a72ZlICYZFQ0/edit?usp=sharing)
 
 ## Assignments
 
 - Run inside the dev container and/or the virtual machine on Azure within VS Code
     - [concept_image.py](https://github.com/jdposada/oop_202201/blob/main/src/ch_01/concept_image.py)
     - [distance_images.py](https://github.com/jdposada/oop_202201/blob/main/src/ch_01/distance_images.py)
-- Bring an idea for the project you want to work on. We will discuss your idea during regular class times on Thursday
+- Bring an idea for the project you want to work on. We will discuss your idea during regular class time on Thursday
 
 ## Learn
 

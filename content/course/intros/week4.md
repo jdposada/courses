@@ -16,7 +16,7 @@ Week 4: List, Dictionaries and Tuples in Python
 
 During class we will cover the basics of Lists, dictionaries and tuples in Python and some fun exercises with them.
 
-Here will be the link for the Jupyter Notebook to be used during class
+- [Google Colab Jupyter Notebook](https://colab.research.google.com/drive/1l5OmgXDqsqbQqoUNsb_y-5eZ8mZRhrTG?usp=sharing)
 
 ## Learn
 

@@ -17,7 +17,7 @@ During class we will see the need for Interoperability. We will see the differen
 
 ## Assignment
 
-- Read everything **Readings section**
+- Read everything from the **Readings section**
 - Follow the instructions to setup our development environment. The instructions are available on our course [Github repo](https://github.com/jdposada/bioinf_202210).
 - Open an [Azure for Students](https://azure.microsoft.com/en-us/free/students/) account with your University email. This account and the credits given does nto require you to provide a credit card.
 - Open a [Google Cloud account](https://edu.google.com/programs/benefits/students/?modal_active=none) with your university email. This one may require you to have a credit card.
