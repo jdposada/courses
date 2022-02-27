@@ -28,7 +28,7 @@
 &lt;p>Here is a very nice webpage to test your knowledge with simple questions&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cmdchallenge.com/" target="_blank" rel="noopener">https://cmdchallenge.com/&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week2/</guid><description>&lt;p>Week 2 OOP&lt;/p>
+&lt;/ul></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week2/</guid><description>&lt;p>Week 2: Classes and Objects&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 4 - 6 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
@@ -85,7 +85,7 @@
 &lt;/ul>
 &lt;/p>
 &lt;/details>
-&lt;p>Questions taken and modified from &lt;a href="https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Week 3 OOP&lt;/p>
+&lt;p>Questions taken and modified from &lt;a href="https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Week 3: Relationships between classes and Encapsulation&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
@@ -112,12 +112,17 @@
 &lt;/h2>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/UI6lqHOVHic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/oop/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week4/</guid><description>&lt;p>Week 4 OOP&lt;/p>
+&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/oop/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week4/</guid><description>&lt;p>Week 4: Python Refresher and Basic Inheritance&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
 &lt;ul>
-&lt;li>Class slides will be posted here&lt;/li>
+&lt;li>&lt;strong>Slides&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1eWx7L2RfxmfWL7xL9umvxCgU855xy5bcnBRRm33f8kI/edit?usp=sharing" target="_blank" rel="noopener">Case Study: Iris Dataset Classification Problem&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1216uL3GXLOr7Lo2zRN93AznPA5pIQ6-a72ZlICYZFQ0/edit?usp=sharing" target="_blank" rel="noopener">Basic Inheritance&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
@@ -127,11 +132,50 @@
 &lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/distance_images.py" target="_blank" rel="noopener">distance_images.py&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Bring an idea for the project you want to work on. We will discuss your idea during regular class times on Thursday&lt;/li>
+&lt;li>Bring an idea for the project you want to work on. We will discuss your idea during regular class time on Thursday&lt;/li>
 &lt;/ul>
 &lt;h2 id="learn">Learn&lt;/h2>
 &lt;p>Here a &lt;a href="https://code.visualstudio.com/docs/python/jupyter-support-py#_jupyter-code-cells" target="_blank" rel="noopener">link&lt;/a> with a description about the Jupyter cells that we are using in the code you need to run as assignment this week. Is a slightly different way to run a jupyter notebook using an interactive window.&lt;/p>
 &lt;p>Below a short video that have a brief explanation about this feature in VS code&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/lwN4-W1WR84" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item></channel></rss>
+&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/oop/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week5/</guid><description>&lt;p>Week 5: Objects in Python - Basic Inheritance and Polymorphism&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Basic inheritance and polymorphism (to be posted at the end of the week)&lt;/li>
+&lt;li>Objects in Python: link to code used during class (to be posted at the end of the week)&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Read&lt;/strong>:
+&lt;ul>
+&lt;li>Read pages 21 to 34 of the Book &lt;em>Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries&lt;/em>. Remember that this is our textbook and we will be using it extensively during our semester.&lt;/li>
+&lt;li>Read about MRO: Method Resolution Order in Python&lt;/li>
+&lt;li>Read about polymorphism and its specifics within Python.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Write&lt;/strong>:
+&lt;ul>
+&lt;li>Write a short project description. The description should be about 500 words. The description should be in &lt;em>&lt;strong>English&lt;/strong>&lt;/em>.
+&lt;ul>
+&lt;li>Google form &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfypQ-5TnQ0VEVAnXY6vrJ-fmsOjsQnIRUImDzA69MwonEAZw/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note&lt;/strong>
+It is important you remember that is is ok if you do not understand everything you are assigned to read. The important part is that you actually read. Please bring the questions you may have regarding the material to our class.&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>Short blog posts explaining:
+&lt;ul>
+&lt;li>&lt;a href="https://www.geeksforgeeks.org/method-resolution-order-in-python-inheritance/" target="_blank" rel="noopener">MRO&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.geeksforgeeks.org/polymorphism-in-python/" target="_blank" rel="noopener">Polymorphism&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Nice intro &lt;a href="https://www.codecademy.com/learn/learn-python-3" target="_blank" rel="noopener">Python course&lt;/a> if you still need some help to acquaint yourselves with it&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>NOTE&lt;/strong>: Sorry no videos this week on the learn section&lt;/p></description></item></channel></rss>
