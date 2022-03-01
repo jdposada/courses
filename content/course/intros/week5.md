@@ -21,7 +21,7 @@ Week 5: Dataframes part 1: Open data by MinTIC + Pandas + Variables types
 ## Assignments
 
 - Create a Python list with heights and names.
-- Here the [link](https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link) to upload your work the first Activity. Due date and all the details are in this Google Colab (It will be made available Tuesday March 1st right before class). Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email 
+- Here the [link](https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link) to upload your work the first Activity. Due date and all the details are in [this Google Colab](https://drive.google.com/file/d/1dpmgSEmGTi85NncZRMgie98VOivD0kXL/view?usp=sharing). Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email 
 
 ## Learn
 
