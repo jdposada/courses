@@ -411,7 +411,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
 &lt;li>Create a Python list with heights and names.&lt;/li>
-&lt;li>Here the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a> to upload your work the first Activity. Due date and all the details are in this Google Colab (It will be made available Tuesday March 1st right before class). Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email&lt;/li>
+&lt;li>Here the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a> to upload your work the first Activity. Due date and all the details are in &lt;a href="https://drive.google.com/file/d/1dpmgSEmGTi85NncZRMgie98VOivD0kXL/view?usp=sharing" target="_blank" rel="noopener">this Google Colab&lt;/a>. Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email&lt;/li>
 &lt;/ul>
 &lt;h2 id="learn">Learn&lt;/h2>
 &lt;p>Below a nice Introductory tutorial on Pandas Dataframes&lt;/p>
