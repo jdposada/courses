@@ -4,7 +4,7 @@ This repo contains the code to generate the webpage on
 
 https://jdposada.github.io/courses/
 
-The amin directory contains the rendered files as well as the original files
+The main directory contains the rendered files as well as the original files
 
 The original markdown files are located on the folders
 

@@ -45,7 +45,7 @@
 &lt;p>During class we will see the need for Interoperability. We will see the differences between basic interoperability (scheme, messages, etc&amp;hellip;) and semantic interoperability. The we will zoom in into the different information systems a hospital may have (LIMS, PCAS, Waveforms, Appointments, etc&amp;hellip;) and how they can communicate between them and with another healthcare institution. After that we will briefly touch upon HL7 V2 and FHIR to explain the needs of Controlled terminologies/vocabularies and Ontologies. We will zoom in into &lt;a href="https://www.who.int/standards/classifications/classification-of-diseases" target="_blank" rel="noopener">ICD-10&lt;/a> and &lt;a href="https://bioportal.bioontology.org/ontologies/SNOMEDCT" target="_blank" rel="noopener">SNOMED-CT&lt;/a> and explain the differences between them.&lt;/p>
 &lt;h2 id="assignment">Assignment&lt;/h2>
 &lt;ul>
-&lt;li>Read everything &lt;strong>Readings section&lt;/strong>&lt;/li>
+&lt;li>Read everything from the &lt;strong>Readings section&lt;/strong>&lt;/li>
 &lt;li>Follow the instructions to setup our development environment. The instructions are available on our course &lt;a href="https://github.com/jdposada/bioinf_202210" target="_blank" rel="noopener">Github repo&lt;/a>.&lt;/li>
 &lt;li>Open an &lt;a href="https://azure.microsoft.com/en-us/free/students/" target="_blank" rel="noopener">Azure for Students&lt;/a> account with your University email. This account and the credits given does nto require you to provide a credit card.&lt;/li>
 &lt;li>Open a &lt;a href="https://edu.google.com/programs/benefits/students/?modal_active=none" target="_blank" rel="noopener">Google Cloud account&lt;/a> with your university email. This one may require you to have a credit card.&lt;/li>
@@ -75,6 +75,30 @@
 &lt;li>Finish all the steps to access MIMIC III and MIMIC IV data.&lt;/li>
 &lt;li>Follow the instructions on this &lt;a href="https://github.com/jdposada/bioinf_202210" target="_blank" rel="noopener">Github Repository&lt;/a>. We will use this repo the entire semester&lt;/li>
 &lt;/ul>
+&lt;h3 id="in-class-activity">In-Class Activity&lt;/h3>
+&lt;ul>
+&lt;li>Given the class size we will divide in four groups each group will have a different but related assignment. By the end of the class it is expected that all the code will be pushed to a single GitHub repository
+&lt;ul>
+&lt;li>&lt;em>Group 1:&lt;/em> Download the &lt;a href="https://physionet.org/content/mimic-iv-demo-omop/0.9/" target="_blank" rel="noopener">MIMIC IV OMOP-CDM demo dataset&lt;/a> and load it into a SQL Lite Database using &lt;a href="https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html" target="_blank" rel="noopener">RSQLite&lt;/a>&lt;/li>
+&lt;li>&lt;em>Group 2:&lt;/em> Download the &lt;a href="https://physionet.org/content/mimic-iv-demo-omop/0.9/" target="_blank" rel="noopener">MIMIC IV OMOP-CDM demo dataset&lt;/a> and produce a graph like the one below for conditions and procedures&lt;/li>
+&lt;li>&lt;em>Group 3:&lt;/em> Download the &lt;a href="https://physionet.org/content/mimic-iv-demo-omop/0.9/" target="_blank" rel="noopener">MIMIC IV OMOP-CDM demo dataset&lt;/a> and produce a graph like the one below for drugs and measurements&lt;/li>
+&lt;li>&lt;em>Group 4:&lt;/em> Run the &lt;a href="https://github.com/OHDSI/DataQualityDashboard" target="_blank" rel="noopener">OHDSI Data Quality Dashboard&lt;/a> to Visualize the file(&lt;code>results_MIMICIVdemo210426.json&lt;/code>) generated when running the tool on the demo data. The file is part of the &lt;a href="https://physionet.org/content/mimic-iv-demo-omop/0.9/" target="_blank" rel="noopener">MIMIC IV OMOP-CDM demo dataset&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Example of graph to be generated for Groups 2 and 3&lt;/em>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >
+&lt;img alt="" srcset="
+/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_c8386d767b16de713ab54efe42b3af9a.png 400w,
+/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_c3be07f049177ec3598508bdae7c492b.png 760w,
+/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_1200x1200_fit_lanczos_3.png 1200w"
+src="https://jdposada.github.io/courses/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_c8386d767b16de713ab54efe42b3af9a.png"
+width="760"
+height="259"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>&lt;/p>
 &lt;h2 id="readings">Readings&lt;/h2>
 &lt;ul>
 &lt;li>Read sections &lt;a href="https://ohdsi.github.io/TheBookOfOhdsi/CommonDataModel.html#CommonDataModel" target="_blank" rel="noopener">4&lt;/a> and &lt;a href="https://ohdsi.github.io/TheBookOfOhdsi/CommonDataModel.html#design-principles" target="_blank" rel="noopener">4.1&lt;/a> of the OHDSI book&lt;/li>
@@ -84,4 +108,80 @@
 &lt;p>A short video about &lt;em>Lessons Learned Converting Patient-Level Data to the OMOP Common Data Model to Support the COVID-19 Crisis&lt;/em>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/c08rXeUyFWM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item></channel></rss>
+&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/bioinf/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week5/</guid><description>&lt;p>Week 5: Analytical Use cases with Clinical Data&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>In this class we will cover in detail the main possible analytical use cases we can have when dealing with EHR data. The three main analyses we will cover will be:
+&lt;ul>
+&lt;li>Characterization&lt;/li>
+&lt;li>Population-level Estimation&lt;/li>
+&lt;li>Patient-level Prediction&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/jdposada/bioinf_202210#remote-development-environment-on-cloud" target="_blank" rel="noopener">Here&lt;/a> you will find instructions to setup a VM in Microsoft Azure that runs the Docker image with all the OHDSI environment already setup&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Watch the short video with a small introduction to SQL&lt;/li>
+&lt;li>Read all the mandatory readings&lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-class Activity&lt;/h3>
+&lt;p>During class we will discuss ideas for the final project and submit a 500 word summary at the end of it using &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdTyWjMxnndRfM3njWZuC9h9iofJXGI1KWkvSbz7TQ154951g/viewform?usp=sf_link" target="_blank" rel="noopener">this&lt;/a> Google form&lt;/p>
+&lt;h2 id="readings">Readings&lt;/h2>
+&lt;ul>
+&lt;li>Mandatory Readings
+&lt;ul>
+&lt;li>Read chapter &lt;a href="https://ohdsi.github.io/TheBookOfOhdsi/DataAnalyticsUseCases.html" target="_blank" rel="noopener">7&lt;/a> of the OHDSI book.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Go to &lt;strong>Week 6&lt;/strong> section and start the mandatory readings there so you have time to finish them by the class on Week 6&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;h3 id="charybdis-presentation-kristin-kostka-22321-ohdsi-community-call">CHARYBDIS Presentation (Kristin Kostka, 2/23/21 OHDSI Community Call)&lt;/h3>
+&lt;p>The video describes a large scale observational study whose results can be visualized &lt;a href="https://data.ohdsi.org/Covid19CharacterizationCharybdis/" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Px0O8C9CdSQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h3 id="a-short-introduction-to-sql">A short introduction to &lt;strong>SQL&lt;/strong>&lt;/h3>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/zbMHLJ0dY4w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/bioinf/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week6/</guid><description>&lt;p>Week 6: Data Processing and Feature generation with clinical data&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;p>In this class we will start describing the methods used to process EHR data and generate features with it.&lt;/p>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Read all the mandatory readings&lt;/li>
+&lt;/ul>
+&lt;h2 id="readings">Readings&lt;/h2>
+&lt;ul>
+&lt;li>Mandatory Readings
+&lt;ul>
+&lt;li>Get acquainted with the &lt;a href="https://ohdsi.github.io/FeatureExtraction/articles/UsingFeatureExtraction.html" target="_blank" rel="noopener">Feature Extraction&lt;/a> OHDSI package. You just need to read and if you wish you could follow along some of the examples using the sample Eunomia Dataset.
+&lt;ul>
+&lt;li>&lt;a href="https://ohdsi.github.io/FeatureExtraction/reference/createCovariateSettings.html" target="_blank" rel="noopener">Here&lt;/a> is the portion of the documentation that describes how the features are generated&lt;/li>
+&lt;li>&lt;a href="https://github.com/OHDSI/FeatureExtraction/blob/main/inst/csv/PrespecAnalyses.csv" target="_blank" rel="noopener">Here&lt;/a> is the pre-specified analyses CSV. The SQL files mentioned there are very hard to read because they are supporting a wide range of use cases.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Read the articles:
+&lt;ul>
+&lt;li>&lt;a href="https://people.csail.mit.edu/dsontag/papers/RazavianEtAl_BigData15.pdf" target="_blank" rel="noopener">Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/clinicalml/omop-learn" target="_blank" rel="noopener">GitHub Repository&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://academic.oup.com/jamia/article/27/12/1921/5920826?login=false" target="_blank" rel="noopener">Democratizing EHR analyses with FIDDLE: a flexible data-driven preprocessing pipeline for structured clinical data&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/MLD3/FIDDLE" target="_blank" rel="noopener">GitHub Repository&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> If you do not understand everything is ok. We will discuss the packages and papers during class&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2></description></item></channel></rss>

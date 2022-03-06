@@ -26,14 +26,14 @@ Week 5: Analytical Use cases with Clinical Data
 
 ### In-class Activity
 
-During class we will discuss ideas for the final project and submit a 500 word summary at the end of it. 
+During class we will discuss ideas for the final project and submit a 500 word summary at the end of it using [this](https://docs.google.com/forms/d/e/1FAIpQLSdTyWjMxnndRfM3njWZuC9h9iofJXGI1KWkvSbz7TQ154951g/viewform?usp=sf_link) Google form
 
 
 ## Readings
 
 - Mandatory Readings
     - Read chapter [7](https://ohdsi.github.io/TheBookOfOhdsi/DataAnalyticsUseCases.html) of the OHDSI book. 
-    - Go to **Week 6** section and start the mandatory readings there so you have time to finish them.
+- Go to **Week 6** section and start the mandatory readings there so you have time to finish them by the class on Week 6
 
 
 ## Learn

@@ -54,7 +54,9 @@
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 45 mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;p>During class we will cover the basics of Lists, dictionaries and tuples in Python and some fun exercises with them.&lt;/p>
-&lt;p>Here will be the link for the Jupyter Notebook to be used during class&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1l5OmgXDqsqbQqoUNsb_y-5eZ8mZRhrTG?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="learn">Learn&lt;/h2>
 &lt;p>Below a short video if you want to start learning some of the content before class and come with awesome questions.&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -65,6 +67,44 @@
 &lt;summary>Can I change the contents of a tuple once created?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Once created you cannot change the contents of a tuple. This characteristic is called &lt;em>immutable&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Week 5: Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>&lt;a href="https://datos.gov.co" target="_blank" rel="noopener">Colombian Government Open Data webpage&lt;/a>
+&lt;ul>
+&lt;li>&lt;strong>A&lt;/strong>pplication &lt;strong>P&lt;/strong>rogramming &lt;strong>I&lt;/strong>nterface (&lt;strong>API&lt;/strong>) for Colombian Government Open Data: &lt;a href="https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4" target="_blank" rel="noopener">SODA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Create a Python list with heights and names.&lt;/li>
+&lt;li>Here the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a> to upload your work the first Activity. Due date and all the details are in &lt;a href="https://drive.google.com/file/d/1dpmgSEmGTi85NncZRMgie98VOivD0kXL/view?usp=sharing" target="_blank" rel="noopener">this Google Colab&lt;/a>. Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice Introductory tutorial on Pandas Dataframes&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/e60ItwlZTKM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>NOTE&lt;/strong> If you watch this before our class it will be an even better time together.&lt;/p>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What is a famous software that stores data in a similar way than Dataframes?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Microsoft Excel&lt;/li>
+&lt;li>Google Spreadsheets&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>Why Dataframes are so popular?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Because they allow you to manipulate, transform and visualize data very easily in a programmatic and repeatable way.&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details></description></item></channel></rss>

@@ -83,6 +83,8 @@ Bioinformatics
 <li><a href=/courses/course/bioinf/week2/>Week 2</a></li>
 <li><a href=/courses/course/bioinf/week3/>Week 3</a></li>
 <li class=active><a href=/courses/course/bioinf/week4/>Week 4</a></li>
+<li><a href=/courses/course/bioinf/week5/>Week 5</a></li>
+<li><a href=/courses/course/bioinf/week6/>Week 6</a></li>
 </ul>
 </div>
 </nav>
@@ -94,7 +96,11 @@ Bioinformatics
 <nav id=TableOfContents>
 <ul>
 <li><a href=#class-content>Class Content</a></li>
-<li><a href=#assignments>Assignments</a></li>
+<li><a href=#assignments>Assignments</a>
+<ul>
+<li><a href=#in-class-activity>In-Class Activity</a></li>
+</ul>
+</li>
 <li><a href=#readings>Readings</a></li>
 <li><a href=#learn>Learn</a></li>
 </ul>
@@ -140,6 +146,25 @@ Week 4
 <li>Finish all the steps to access MIMIC III and MIMIC IV data.</li>
 <li>Follow the instructions on this <a href=https://github.com/jdposada/bioinf_202210 target=_blank rel=noopener>Github Repository</a>. We will use this repo the entire semester</li>
 </ul>
+<h3 id=in-class-activity>In-Class Activity</h3>
+<ul>
+<li>Given the class size we will divide in four groups each group will have a different but related assignment. By the end of the class it is expected that all the code will be pushed to a single GitHub repository
+<ul>
+<li><em>Group 1:</em> Download the <a href=https://physionet.org/content/mimic-iv-demo-omop/0.9/ target=_blank rel=noopener>MIMIC IV OMOP-CDM demo dataset</a> and load it into a SQL Lite Database using <a href=https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html target=_blank rel=noopener>RSQLite</a></li>
+<li><em>Group 2:</em> Download the <a href=https://physionet.org/content/mimic-iv-demo-omop/0.9/ target=_blank rel=noopener>MIMIC IV OMOP-CDM demo dataset</a> and produce a graph like the one below for conditions and procedures</li>
+<li><em>Group 3:</em> Download the <a href=https://physionet.org/content/mimic-iv-demo-omop/0.9/ target=_blank rel=noopener>MIMIC IV OMOP-CDM demo dataset</a> and produce a graph like the one below for drugs and measurements</li>
+<li><em>Group 4:</em> Run the <a href=https://github.com/OHDSI/DataQualityDashboard target=_blank rel=noopener>OHDSI Data Quality Dashboard</a> to Visualize the file(<code>results_MIMICIVdemo210426.json</code>) generated when running the tool on the demo data. The file is part of the <a href=https://physionet.org/content/mimic-iv-demo-omop/0.9/ target=_blank rel=noopener>MIMIC IV OMOP-CDM demo dataset</a></li>
+</ul>
+</li>
+</ul>
+<p><em>Example of graph to be generated for Groups 2 and 3</em>
+<figure>
+<div class="d-flex justify-content-center">
+<div class=w-100>
+<img alt srcset="/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_c8386d767b16de713ab54efe42b3af9a.png 400w,
+/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_c3be07f049177ec3598508bdae7c492b.png 760w,
+/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_1200x1200_fit_lanczos_3.png 1200w" src=/courses/media/tree_map_conditions_hu692bedcc1b671d9a0950538a8de6221e_28704_c8386d767b16de713ab54efe42b3af9a.png width=760 height=259 loading=lazy data-zoomable></div>
+</div></figure></p>
 <h2 id=readings>Readings</h2>
 <ul>
 <li>Read sections <a href=https://ohdsi.github.io/TheBookOfOhdsi/CommonDataModel.html#CommonDataModel target=_blank rel=noopener>4</a> and <a href=https://ohdsi.github.io/TheBookOfOhdsi/CommonDataModel.html#design-principles target=_blank rel=noopener>4.1</a> of the OHDSI book</li>
@@ -156,6 +181,10 @@ Week 4
 <div class=post-nav-item>
 <div class=meta-nav>Previous</div>
 <a href=/courses/course/bioinf/week3/ rel=next>Week 3</a>
+</div>
+<div class=post-nav-item>
+<div class=meta-nav>Next</div>
+<a href=/courses/course/bioinf/week5/ rel=prev>Week 5</a>
 </div>
 </div>
 </div>
