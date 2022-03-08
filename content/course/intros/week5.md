@@ -14,7 +14,7 @@ Week 5: Dataframes part 1: Open data by MinTIC + Pandas + Variables types
 
 ## Class Content
 
-- Google Colab Jupyter Notebook
+- Google Colab Jupyter Notebook. This Google Colab will be made available on March 9. 
 - [Colombian Government Open Data webpage](https://datos.gov.co)
     - **A**pplication **P**rogramming **I**nterface (**API**) for Colombian Government Open Data: [SODA](https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4)
 
