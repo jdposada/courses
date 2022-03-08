@@ -13,8 +13,9 @@ Week 5: Objects in Python - Basic Inheritance and Polymorphism
 
 ## Class content
 
-- Basic inheritance and polymorphism (to be posted at the end of the week)
-- Objects in Python: link to code used during class (to be posted at the end of the week)
+- Basic inheritance and polymorphism
+    - Class activity: Present the concepts to your classmates in groups. Then one of the members of the group present the concept to the entire course. This activity encourages self-learning and concept reinforcement by teaching what was learned. 
+- Objects in Python: The code is now in our [repo](https://github.com/jdposada/oop_202201/) on `oop_202201/chapters/ch_02/src/` 
 
 ## Assignments
 
