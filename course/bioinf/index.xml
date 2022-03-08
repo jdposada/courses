@@ -155,6 +155,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
 &lt;li>Read all the mandatory readings&lt;/li>
+&lt;li>Contribute to our Github repository by taking the code generated in week 4 class activity and merging everything in a single .Rmd in our class &lt;a href="https://github.com/jdposada/bioinf_202210" target="_blank" rel="noopener">repo&lt;/a>. For doing that your first need to &lt;code>fork&lt;/code> and then perform a &lt;code>pull request&lt;/code>. The route for the file we will be editing together is &lt;code>bioinf_202210/src/assigment1.Rmd&lt;/code>&lt;/li>
 &lt;/ul>
 &lt;h2 id="readings">Readings&lt;/h2>
 &lt;ul>

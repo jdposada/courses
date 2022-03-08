@@ -197,6 +197,9 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
+&lt;li>Read about &lt;a href="https://www.geeksforgeeks.org/python-super/" target="_blank" rel="noopener">super&lt;/a> in Python&lt;/li>
+&lt;li>Read &lt;a href="https://www.python.org/dev/peps/pep-0008/" target="_blank" rel="noopener">PEP 8&lt;/a> Style Guide for Python Code. I expect you to finish this reading on week 7.&lt;/li>
+&lt;li>Create 3 or more simple classes with Python MRO is needed. Then use a wrapper to solve the issue.&lt;/li>
 &lt;li>Watch the two videos below. Those videos will help you understand the difference between functional and non-functional requirements.&lt;/li>
 &lt;li>Solutions to your final project: You need to find and summarize the following in maximum 2 pages
 &lt;ul>
