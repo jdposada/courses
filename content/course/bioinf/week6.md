@@ -18,6 +18,7 @@ In this class we will start describing the methods used to process EHR data and 
 ## Assignments
 
 - Read all the mandatory readings
+- Contribute to our Github repository by taking the code generated in week 4 class activity and merging everything in a single .Rmd in our class [repo](https://github.com/jdposada/bioinf_202210). For doing that your first need to `fork` and then perform a `pull request`. The route for the file we will be editing together is `bioinf_202210/src/assigment1.Rmd`
 
 
 ## Readings
