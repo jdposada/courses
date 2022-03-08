@@ -144,8 +144,12 @@
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
 &lt;ul>
-&lt;li>Basic inheritance and polymorphism (to be posted at the end of the week)&lt;/li>
-&lt;li>Objects in Python: link to code used during class (to be posted at the end of the week)&lt;/li>
+&lt;li>Basic inheritance and polymorphism
+&lt;ul>
+&lt;li>Class activity: Present the concepts to your classmates in groups. Then one of the members of the group present the concept to the entire course. This activity encourages self-learning and concept reinforcement by teaching what was learned.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Objects in Python: The code is now in our &lt;a href="https://github.com/jdposada/oop_202201/" target="_blank" rel="noopener">repo&lt;/a> on &lt;code>oop_202201/chapters/ch_02/src/&lt;/code>&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
@@ -178,4 +182,42 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;/li>
 &lt;li>Nice intro &lt;a href="https://www.codecademy.com/learn/learn-python-3" target="_blank" rel="noopener">Python course&lt;/a> if you still need some help to acquaint yourselves with it&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>NOTE&lt;/strong>: Sorry no videos this week on the learn section&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>NOTE&lt;/strong>: Sorry no videos this week on the learn section&lt;/p></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/oop/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week6/</guid><description>&lt;p>Week 6: Objects in Python - Exception management, class properties and decorators in Python&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Practical Class: We will continue covering objects in python and its implementation details. We will implement portions of our case study.&lt;/li>
+&lt;li>Theoretical Class:
+&lt;ul>
+&lt;li>Exception management&lt;/li>
+&lt;li>Properties and decorators&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Watch the two videos below. Those videos will help you understand the difference between functional and non-functional requirements.&lt;/li>
+&lt;li>Solutions to your final project: You need to find and summarize the following in maximum 2 pages
+&lt;ul>
+&lt;li>Functional and non-functional requirements.&lt;/li>
+&lt;li>Similar solutions in the literature and the market&lt;/li>
+&lt;li>List of possible solutions to the problem *type of application, type of interaction, etc&amp;hellip;)&lt;/li>
+&lt;li>Available technologies for the implementation of solutions&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Please create a Google Doc and share the link on &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdv7ERLbLa88R0GPMie7YQhRSZuYrkNNZRjQOaWkNR0iD29ng/viewform?usp=sf_link" target="_blank" rel="noopener">this form&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/3fgfUHKITts" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/PtJmjPkrSUE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

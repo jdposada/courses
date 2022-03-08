@@ -74,7 +74,7 @@
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>Google Colab Jupyter Notebook. This Google Colab will be made available on March 9.&lt;/li>
 &lt;li>&lt;a href="https://datos.gov.co" target="_blank" rel="noopener">Colombian Government Open Data webpage&lt;/a>
 &lt;ul>
 &lt;li>&lt;strong>A&lt;/strong>pplication &lt;strong>P&lt;/strong>rogramming &lt;strong>I&lt;/strong>nterface (&lt;strong>API&lt;/strong>) for Colombian Government Open Data: &lt;a href="https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4" target="_blank" rel="noopener">SODA&lt;/a>&lt;/li>
@@ -105,6 +105,32 @@
 &lt;summary>Why Dataframes are so popular?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Because they allow you to manipulate, transform and visualize data very easily in a programmatic and repeatable way.&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/intros/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week6/</guid><description>&lt;p>Week 6: Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/" target="_blank" rel="noopener">Matplotlib Webpage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seaborn.pydata.org/" target="_blank" rel="noopener">Seaborn Webpage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Select a plot from &lt;a href="https://seaborn.pydata.org/examples/index.html" target="_blank" rel="noopener">this gallery&lt;/a> and reproduce it on a Google Colab. Change at least one aspect of the plot.&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice Introductory tutorial of Seaborn&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/TLdXM0A7SR8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What are two types of plots you can do on Seaborn that are particularly beautiful when compared with &lt;code>Matplotlib&lt;/code>?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Scatterplots&lt;/li>
+&lt;li>Desnsity plots&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details></description></item></channel></rss>
