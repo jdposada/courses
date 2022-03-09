@@ -18,6 +18,10 @@ Week 6: Objects in Python - Exception management, class properties and decorator
     - Exception management
     - Properties and decorators
 
+### In-class activity
+
+- **Co-evaluation form of project abstracts**. Please fill the form in this [link](https://docs.google.com/forms/d/e/1FAIpQLSfP9EewlqJc2VNvl8c-650TnONiOA5CBck_XwsY3moOzq5m0w/viewform?usp=sf_link). You will see all the proposals from your classmates even in the other course section.  
+
 ## Assignments
 
 - Read about [super](https://www.geeksforgeeks.org/python-super/) in Python
