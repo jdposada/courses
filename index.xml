@@ -590,7 +590,13 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
-&lt;li>You need to think in a data science project you would like to do. After that you need to write a 500 words summary and submit that by &lt;strong>Tuesday April 5th&lt;/strong> on this &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScMJy7-hT-nl5rtBvQ8bvgeHUGuxdkfszsC-SGgQsI5VJEQpg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>You need to think in a data science project you would like to do. After that you need to write a 500 words summary and submit that by &lt;strong>Tuesday April 5th&lt;/strong> on this &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScMJy7-hT-nl5rtBvQ8bvgeHUGuxdkfszsC-SGgQsI5VJEQpg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a>. You could use a &lt;a href="https://www.kaggle.com/" target="_blank" rel="noopener">Kaggle&lt;/a> project, however it will be important to add a small spin to it. Below some nice Kaggle examples of projects
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques" target="_blank" rel="noopener">House Prices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/titanic" target="_blank" rel="noopener">Titanic&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/digit-recognizer" target="_blank" rel="noopener">Digit Recognizer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="learn">Learn&lt;/h2>
 &lt;p>Below a nice video explaining the pandas &lt;code>group by&lt;/code> function&lt;/p>
