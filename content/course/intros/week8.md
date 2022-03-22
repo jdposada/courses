@@ -32,7 +32,7 @@ Below a nice video explaining the pandas `group by` function
 
 {{< spoiler text="When should I use the `group by` function?" >}}
 
-- {{< youtube qy0fDqoMJx8 >}}
+- To group and summarize for a set of specific categories or values a column may have
 
 {{< /spoiler >}}
 
