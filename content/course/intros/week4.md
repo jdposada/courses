@@ -6,7 +6,7 @@ weight: 40
 tags: 
 ---
 
-Week 4: List, Dictionaries and Tuples in Python
+List, Dictionaries and Tuples in Python
 
 <!--more-->
 

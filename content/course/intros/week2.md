@@ -8,7 +8,7 @@ tags:
  - intros
 ---
 
-Week 2: Systems Engineering and its Applications
+Systems Engineering and its Applications
 
 <!--more-->
 

@@ -6,7 +6,7 @@ weight: 60
 tags: 
 ---
 
-Week 6: Dataframes part 2: Pandas + Matplotlib + Seaborn
+Lab Visit
 
 <!--more-->
 
@@ -14,9 +14,8 @@ Week 6: Dataframes part 2: Pandas + Matplotlib + Seaborn
 
 ## Class Content
 
-- Google Colab Jupyter Notebook
-- [Matplotlib Webpage](https://matplotlib.org/)
-- [Seaborn Webpage](https://seaborn.pydata.org/)
+- Visit to Department lab
+- Deadline for Activity 1
 
 ## Assignments
 
@@ -34,7 +33,7 @@ Below a nice Introductory tutorial of Seaborn
 {{< spoiler text="What are two types of plots you can do on Seaborn that are particularly beautiful when compared with `Matplotlib`?" >}}
 
 - Scatterplots
-- Desnsity plots
+- Density plots
 
 {{< /spoiler >}}
 

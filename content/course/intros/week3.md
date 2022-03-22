@@ -6,7 +6,7 @@ weight: 30
 tags: 
 ---
 
-Week 3: Intro to Google Colab and Python
+Intro to Google Colab and Python
 
 <!--more-->
 
