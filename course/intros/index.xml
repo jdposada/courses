@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 Introduction to Systems Engineering | Courses</title><link>https://jdposada.github.io/courses/course/intros/</link><atom:link href="https://jdposada.github.io/courses/course/intros/index.xml" rel="self" type="application/rss+xml"/><description>📊 Introduction to Systems Engineering</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>📊 Introduction to Systems Engineering</title><link>https://jdposada.github.io/courses/course/intros/</link></image><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/intros/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week2/</guid><description>&lt;p>Week 2: Systems Engineering and its Applications&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 Introduction to Systems Engineering | Courses</title><link>https://jdposada.github.io/courses/course/intros/</link><atom:link href="https://jdposada.github.io/courses/course/intros/index.xml" rel="self" type="application/rss+xml"/><description>📊 Introduction to Systems Engineering</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>📊 Introduction to Systems Engineering</title><link>https://jdposada.github.io/courses/course/intros/</link></image><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/intros/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week2/</guid><description>&lt;p>Systems Engineering and its Applications&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 15 mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -32,7 +32,7 @@
 &lt;li>Python&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/intros/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week3/</guid><description>&lt;p>Week 3: Intro to Google Colab and Python&lt;/p>
+&lt;/details></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/intros/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week3/</guid><description>&lt;p>Intro to Google Colab and Python&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -49,7 +49,7 @@
 &lt;li>On a Virtual Machine on the Cloud&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/intros/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week4/</guid><description>&lt;p>Week 4: List, Dictionaries and Tuples in Python&lt;/p>
+&lt;/details></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/intros/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week4/</guid><description>&lt;p>List, Dictionaries and Tuples in Python&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 45 mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -69,12 +69,12 @@
 &lt;li>Once created you cannot change the contents of a tuple. This characteristic is called &lt;em>immutable&lt;/em>.&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Week 5: Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
+&lt;/details></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook. This Google Colab will be made available on March 9.&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1egrlBLEDsRpDK_ClSgWExY9A28wNtn2H?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://datos.gov.co" target="_blank" rel="noopener">Colombian Government Open Data webpage&lt;/a>
 &lt;ul>
 &lt;li>&lt;strong>A&lt;/strong>pplication &lt;strong>P&lt;/strong>rogramming &lt;strong>I&lt;/strong>nterface (&lt;strong>API&lt;/strong>) for Colombian Government Open Data: &lt;a href="https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4" target="_blank" rel="noopener">SODA&lt;/a>&lt;/li>
@@ -84,6 +84,9 @@
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
 &lt;li>Create a Python list with heights and names.&lt;/li>
+&lt;/ul>
+&lt;h3 id="activity-1">Activity 1&lt;/h3>
+&lt;ul>
 &lt;li>Here the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a> to upload your work the first Activity. Due date and all the details are in &lt;a href="https://drive.google.com/file/d/1dpmgSEmGTi85NncZRMgie98VOivD0kXL/view?usp=sharing" target="_blank" rel="noopener">this Google Colab&lt;/a>. Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email&lt;/li>
 &lt;/ul>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -107,14 +110,13 @@
 &lt;li>Because they allow you to manipulate, transform and visualize data very easily in a programmatic and repeatable way.&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/intros/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week6/</guid><description>&lt;p>Week 6: Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
+&lt;/details></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/intros/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week6/</guid><description>&lt;p>Lab Visit&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook&lt;/li>
-&lt;li>&lt;a href="https://matplotlib.org/" target="_blank" rel="noopener">Matplotlib Webpage&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://seaborn.pydata.org/" target="_blank" rel="noopener">Seaborn Webpage&lt;/a>&lt;/li>
+&lt;li>Visit to Department lab&lt;/li>
+&lt;li>Deadline for Activity 1&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
@@ -130,7 +132,63 @@
 &lt;summary>What are two types of plots you can do on Seaborn that are particularly beautiful when compared with &lt;code>Matplotlib&lt;/code>?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Scatterplots&lt;/li>
-&lt;li>Desnsity plots&lt;/li>
+&lt;li>Density plots&lt;/li>
 &lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 7</title><link>https://jdposada.github.io/courses/course/intros/week7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week7/</guid><description>&lt;p>Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1B1HrfZhn9vfXbfuKcKap-yf20AjNDsNx?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/" target="_blank" rel="noopener">Matplotlib Webpage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seaborn.pydata.org/" target="_blank" rel="noopener">Seaborn Webpage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>Below a short video with an explanation of how to mount GDrive on Google Colab&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/PA1WPr0o_DY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>Short video to refresh your knowledge on slicing with pandas&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/DCE6t3vNfvM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>What is the benefit of mounting GDrive on Google Colab?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>It provides easier and faster access to the files stored on GDrive&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/intros/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week8/</guid><description>&lt;p>Seaborn and Aggregation Functions part 1: One Level Aggregation&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html" target="_blank" rel="noopener">Pandas group by function&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>You need to think in a data science project you would like to do. After that you need to write a 500 words summary and submit that by &lt;strong>Tuesday April 5th&lt;/strong> on this &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScMJy7-hT-nl5rtBvQ8bvgeHUGuxdkfszsC-SGgQsI5VJEQpg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice video explaining the pandas &lt;code>group by&lt;/code> function&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Wb2Tp35dZ-I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>When should I use the &lt;code>group by&lt;/code> function?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>
+&lt;iframe src="https://www.youtube.com/embed/qy0fDqoMJx8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
 &lt;/p>
 &lt;/details></description></item></channel></rss>

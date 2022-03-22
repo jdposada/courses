@@ -68,7 +68,7 @@
 &lt;h3 id="optional">Optional&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://www.medicaldevicesuccess.com/2022/02/06/episode-79-foundation-of-ai-in-healthcare-and-medtech-with-jonathan-chen-md-phd-stanford/" target="_blank" rel="noopener">Foundation of AI in Healthcare and MedTech with Jonathan Chen, MD, PhD, Stanford&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/intros/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week2/</guid><description>&lt;p>Week 2: Systems Engineering and its Applications&lt;/p>
+&lt;/ul></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/intros/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week2/</guid><description>&lt;p>Systems Engineering and its Applications&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 15 mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -183,7 +183,7 @@
 &lt;p>A short tutorial on R&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/fDRa82lxzaU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/intros/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week3/</guid><description>&lt;p>Week 3: Intro to Google Colab and Python&lt;/p>
+&lt;/div></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/intros/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week3/</guid><description>&lt;p>Intro to Google Colab and Python&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -273,7 +273,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>A short video about &lt;em>Lessons Learned Converting Patient-Level Data to the OMOP Common Data Model to Support the COVID-19 Crisis&lt;/em>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/c08rXeUyFWM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/intros/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week4/</guid><description>&lt;p>Week 4: List, Dictionaries and Tuples in Python&lt;/p>
+&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/intros/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week4/</guid><description>&lt;p>List, Dictionaries and Tuples in Python&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 45 mins&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -397,12 +397,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>Below a short video that have a brief explanation about this feature in VS code&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/lwN4-W1WR84" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Week 5: Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
+&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook. This Google Colab will be made available on March 9.&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1egrlBLEDsRpDK_ClSgWExY9A28wNtn2H?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://datos.gov.co" target="_blank" rel="noopener">Colombian Government Open Data webpage&lt;/a>
 &lt;ul>
 &lt;li>&lt;strong>A&lt;/strong>pplication &lt;strong>P&lt;/strong>rogramming &lt;strong>I&lt;/strong>nterface (&lt;strong>API&lt;/strong>) for Colombian Government Open Data: &lt;a href="https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4" target="_blank" rel="noopener">SODA&lt;/a>&lt;/li>
@@ -412,6 +412,9 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
 &lt;li>Create a Python list with heights and names.&lt;/li>
+&lt;/ul>
+&lt;h3 id="activity-1">Activity 1&lt;/h3>
+&lt;ul>
 &lt;li>Here the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a> to upload your work the first Activity. Due date and all the details are in &lt;a href="https://drive.google.com/file/d/1dpmgSEmGTi85NncZRMgie98VOivD0kXL/view?usp=sharing" target="_blank" rel="noopener">this Google Colab&lt;/a>. Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email&lt;/li>
 &lt;/ul>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -478,14 +481,13 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;/li>
 &lt;li>Nice intro &lt;a href="https://www.codecademy.com/learn/learn-python-3" target="_blank" rel="noopener">Python course&lt;/a> if you still need some help to acquaint yourselves with it&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>NOTE&lt;/strong>: Sorry no videos this week on the learn section&lt;/p></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/intros/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week6/</guid><description>&lt;p>Week 6: Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
+&lt;p>&lt;strong>NOTE&lt;/strong>: Sorry no videos this week on the learn section&lt;/p></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/intros/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week6/</guid><description>&lt;p>Lab Visit&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook&lt;/li>
-&lt;li>&lt;a href="https://matplotlib.org/" target="_blank" rel="noopener">Matplotlib Webpage&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://seaborn.pydata.org/" target="_blank" rel="noopener">Seaborn Webpage&lt;/a>&lt;/li>
+&lt;li>Visit to Department lab&lt;/li>
+&lt;li>Deadline for Activity 1&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
@@ -501,7 +503,7 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;summary>What are two types of plots you can do on Seaborn that are particularly beautiful when compared with &lt;code>Matplotlib&lt;/code>?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Scatterplots&lt;/li>
-&lt;li>Desnsity plots&lt;/li>
+&lt;li>Density plots&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/oop/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week6/</guid><description>&lt;p>Week 6: Objects in Python - Exception management, class properties and decorators in Python&lt;/p>
@@ -549,7 +551,63 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;iframe src="https://www.youtube.com/embed/PtJmjPkrSUE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/li>
-&lt;/ul></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
+&lt;/ul></description></item><item><title>Week 7</title><link>https://jdposada.github.io/courses/course/intros/week7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week7/</guid><description>&lt;p>Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1B1HrfZhn9vfXbfuKcKap-yf20AjNDsNx?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/" target="_blank" rel="noopener">Matplotlib Webpage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seaborn.pydata.org/" target="_blank" rel="noopener">Seaborn Webpage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>Below a short video with an explanation of how to mount GDrive on Google Colab&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/PA1WPr0o_DY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>Short video to refresh your knowledge on slicing with pandas&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/DCE6t3vNfvM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>What is the benefit of mounting GDrive on Google Colab?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>It provides easier and faster access to the files stored on GDrive&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/intros/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week8/</guid><description>&lt;p>Seaborn and Aggregation Functions part 1: One Level Aggregation&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html" target="_blank" rel="noopener">Pandas group by function&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>You need to think in a data science project you would like to do. After that you need to write a 500 words summary and submit that by &lt;strong>Tuesday April 5th&lt;/strong> on this &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScMJy7-hT-nl5rtBvQ8bvgeHUGuxdkfszsC-SGgQsI5VJEQpg/viewform?usp=sf_link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice video explaining the pandas &lt;code>group by&lt;/code> function&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Wb2Tp35dZ-I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>When should I use the &lt;code>group by&lt;/code> function?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>
+&lt;iframe src="https://www.youtube.com/embed/qy0fDqoMJx8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/p>
+&lt;/details></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
 &lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
 &lt;p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p></description></item><item><title>Richard Hendricks Wins First Place in the Wowchemy Prize</title><link>https://jdposada.github.io/courses/post/20-12-01-wowchemy-prize/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-01-wowchemy-prize/</guid><description>&lt;p>Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p>

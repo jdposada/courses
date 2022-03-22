@@ -5,8 +5,8 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=generator content="Wowchemy 5.2.0 for Hugo">
 <meta name=author content="Jose Posada">
-<meta name=description content="Dataframes part 1: Open data by MinTIC + Pandas + Variables types">
-<link rel=alternate hreflang=en-us href=https://jdposada.github.io/courses/course/intros/week5/>
+<meta name=description content="Dataframes part 2: Pandas + Matplotlib + Seaborn">
+<link rel=alternate hreflang=en-us href=https://jdposada.github.io/courses/course/intros/week7/>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
 <meta name=theme-color content="#0072ff">
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin=anonymous>
@@ -16,20 +16,20 @@
 <link rel=manifest href=/courses/index.webmanifest>
 <link rel=icon type=image/png href=/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png>
 <link rel=apple-touch-icon type=image/png href=/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png>
-<link rel=canonical href=https://jdposada.github.io/courses/course/intros/week5/>
+<link rel=canonical href=https://jdposada.github.io/courses/course/intros/week7/>
 <meta property="twitter:card" content="summary">
 <meta property="twitter:site" content="@@posadajd">
 <meta property="twitter:creator" content="@@posadajd">
 <meta property="og:site_name" content="Courses">
-<meta property="og:url" content="https://jdposada.github.io/courses/course/intros/week5/">
-<meta property="og:title" content="Week 5 | Courses">
-<meta property="og:description" content="Dataframes part 1: Open data by MinTIC + Pandas + Variables types"><meta property="og:image" content="https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
+<meta property="og:url" content="https://jdposada.github.io/courses/course/intros/week7/">
+<meta property="og:title" content="Week 7 | Courses">
+<meta property="og:description" content="Dataframes part 2: Pandas + Matplotlib + Seaborn"><meta property="og:image" content="https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
 <meta property="twitter:image" content="https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
 <meta property="article:published_time" content="2021-01-01T00:00:00+00:00">
 <meta property="article:modified_time" content="2021-01-01T00:00:00+00:00">
-<title>Week 5 | Courses</title>
+<title>Week 7 | Courses</title>
 </head>
-<body id=top data-spy=scroll data-target=#TableOfContents class="page-wrapper no-navbar" data-wc-page-id=eacbd9b3f165214b5e9dc19380dc5a98>
+<body id=top data-spy=scroll data-target=#TableOfContents class="page-wrapper no-navbar" data-wc-page-id=7341d2fb3d80545086320f9801d0b3e2>
 <script src=/courses/js/wowchemy-init.min.c2ae95842e5b33a787c7b8c567e989a4.js></script>
 <aside class=search-modal id=search>
 <div class=container>
@@ -83,9 +83,9 @@ Introduction to Systems Engineering
 <li><a href=/courses/course/intros/week2/>Week 2</a></li>
 <li><a href=/courses/course/intros/week3/>Week 3</a></li>
 <li><a href=/courses/course/intros/week4/>Week 4</a></li>
-<li class=active><a href=/courses/course/intros/week5/>Week 5</a></li>
+<li><a href=/courses/course/intros/week5/>Week 5</a></li>
 <li><a href=/courses/course/intros/week6/>Week 6</a></li>
-<li><a href=/courses/course/intros/week7/>Week 7</a></li>
+<li class=active><a href=/courses/course/intros/week7/>Week 7</a></li>
 <li><a href=/courses/course/intros/week8/>Week 8</a></li>
 </ul>
 </div>
@@ -98,11 +98,6 @@ Introduction to Systems Engineering
 <nav id=TableOfContents>
 <ul>
 <li><a href=#class-content>Class Content</a></li>
-<li><a href=#assignments>Assignments</a>
-<ul>
-<li><a href=#activity-1>Activity 1</a></li>
-</ul>
-</li>
 <li><a href=#learn>Learn</a></li>
 <li><a href=#brief-quiz>Brief Quiz</a></li>
 </ul>
@@ -129,51 +124,39 @@ Introduction to Systems Engineering
 </a>
 </li>
 <li class="breadcrumb-item active" aria-current=page>
-Week 5
+Week 7
 </li>
 </ol>
 </nav>
-<h1>Week 5</h1>
+<h1>Week 7</h1>
 <div class=article-style>
-<p>Dataframes part 1: Open data by MinTIC + Pandas + Variables types</p>
+<p>Dataframes part 2: Pandas + Matplotlib + Seaborn</p>
 <p>
-<i class="fas fa-clock pr-1 fa-fw"></i> 2 - 3 Hours</p>
+<i class="fas fa-clock pr-1 fa-fw"></i> 1 - 2 Hours</p>
 <h2 id=class-content>Class Content</h2>
 <ul>
-<li><a href="https://colab.research.google.com/drive/1egrlBLEDsRpDK_ClSgWExY9A28wNtn2H?usp=sharing" target=_blank rel=noopener>Google Colab Jupyter Notebook</a></li>
-<li><a href=https://datos.gov.co target=_blank rel=noopener>Colombian Government Open Data webpage</a>
-<ul>
-<li><strong>A</strong>pplication <strong>P</strong>rogramming <strong>I</strong>nterface (<strong>API</strong>) for Colombian Government Open Data: <a href=https://dev.socrata.com/foundry/www.datos.gov.co/qsrc-b3k4 target=_blank rel=noopener>SODA</a></li>
-</ul>
-</li>
-</ul>
-<h2 id=assignments>Assignments</h2>
-<ul>
-<li>Create a Python list with heights and names.</li>
-</ul>
-<h3 id=activity-1>Activity 1</h3>
-<ul>
-<li>Here the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9nmgJiPbk7zHAkFMEFgCTdkDxTGu9y54VGyrsI1A384Bmsg/viewform?usp=sf_link" target=_blank rel=noopener>link</a> to upload your work the first Activity. Due date and all the details are in <a href="https://drive.google.com/file/d/1dpmgSEmGTi85NncZRMgie98VOivD0kXL/view?usp=sharing" target=_blank rel=noopener>this Google Colab</a>. Be sure to make a copy of it. If you do not have your own copy you cannot edit. To access it you need to be logged in with your university email</li>
+<li><a href="https://colab.research.google.com/drive/1B1HrfZhn9vfXbfuKcKap-yf20AjNDsNx?usp=sharing" target=_blank rel=noopener>Google Colab Jupyter Notebook</a></li>
+<li><a href=https://matplotlib.org/ target=_blank rel=noopener>Matplotlib Webpage</a></li>
+<li><a href=https://seaborn.pydata.org/ target=_blank rel=noopener>Seaborn Webpage</a></li>
 </ul>
 <h2 id=learn>Learn</h2>
-<p>Below a nice Introductory tutorial on Pandas Dataframes</p>
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
-<iframe src=https://www.youtube.com/embed/e60ItwlZTKM style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe>
-</div>
-<p><strong>NOTE</strong> If you watch this before our class it will be an even better time together.</p>
-<h2 id=brief-quiz>Brief Quiz</h2>
-<details class=spoiler id=spoiler-2>
-<summary>What is a famous software that stores data in a similar way than Dataframes?</summary>
-<p><ul>
-<li>Microsoft Excel</li>
-<li>Google Spreadsheets</li>
+<ul>
+<li>Below a short video with an explanation of how to mount GDrive on Google Colab</li>
 </ul>
-</p>
-</details>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
+<iframe src=https://www.youtube.com/embed/PA1WPr0o_DY style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe>
+</div>
+<ul>
+<li>Short video to refresh your knowledge on slicing with pandas</li>
+</ul>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
+<iframe src=https://www.youtube.com/embed/DCE6t3vNfvM style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe>
+</div>
+<h2 id=brief-quiz>Brief Quiz</h2>
 <details class=spoiler id=spoiler-3>
-<summary>Why Dataframes are so popular?</summary>
+<summary>What is the benefit of mounting GDrive on Google Colab?</summary>
 <p><ul>
-<li>Because they allow you to manipulate, transform and visualize data very easily in a programmatic and repeatable way.</li>
+<li>It provides easier and faster access to the files stored on GDrive</li>
 </ul>
 </p>
 </details>
@@ -182,11 +165,11 @@ Week 5
 <div class=post-nav>
 <div class=post-nav-item>
 <div class=meta-nav>Previous</div>
-<a href=/courses/course/intros/week4/ rel=next>Week 4</a>
+<a href=/courses/course/intros/week6/ rel=next>Week 6</a>
 </div>
 <div class=post-nav-item>
 <div class=meta-nav>Next</div>
-<a href=/courses/course/intros/week6/ rel=prev>Week 6</a>
+<a href=/courses/course/intros/week8/ rel=prev>Week 8</a>
 </div>
 </div>
 </div>
