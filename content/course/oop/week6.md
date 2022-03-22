@@ -2,10 +2,10 @@
 title: Week 6
 date: '2021-01-01'
 type: book
-weight: 70
+weight: 60
 ---
 
-Week 6: Objects in Python - Exception management, class properties and decorators in Python
+Objects in Python
 
 <!--more-->
 
@@ -13,10 +13,7 @@ Week 6: Objects in Python - Exception management, class properties and decorator
 
 ## Class content
 
-- Practical Class: We will continue covering objects in python and its implementation details. We will implement portions of our case study. 
-- Theoretical Class:
-    - Exception management
-    - Properties and decorators
+- Review of classes implementation in Python
 
 ### In-class activity
 

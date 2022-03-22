@@ -2,10 +2,10 @@
 title: Week 5
 date: '2021-01-01'
 type: book
-weight: 60
+weight: 50
 ---
 
-Week 5: Objects in Python - Basic Inheritance and Polymorphism
+Objects in Python - Basic Inheritance and Polymorphism
 
 <!--more-->
 

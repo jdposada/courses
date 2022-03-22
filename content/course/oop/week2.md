@@ -2,10 +2,10 @@
 title: Week 2
 date: '2021-01-01'
 type: book
-weight: 30
+weight: 20
 ---
 
-Week 2: Classes and Objects
+Classes and Objects
 
 <!--more-->
 

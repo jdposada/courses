@@ -2,13 +2,13 @@
 title: Week 1
 date: '2021-01-01'
 type: book
-weight: 20
+weight: 10
 tags: 
  - main_page
  - oop
 ---
 
-Week 1 OOP
+Introduction to OOP
 
 <!--more-->
 

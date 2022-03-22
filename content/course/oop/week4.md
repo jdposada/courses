@@ -2,10 +2,10 @@
 title: Week 4
 date: '2021-01-01'
 type: book
-weight: 50
+weight: 40
 ---
 
-Week 4: Python Refresher and Basic Inheritance
+Python Refresher and Basic Inheritance
 
 <!--more-->
 

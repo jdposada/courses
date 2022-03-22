@@ -2,10 +2,10 @@
 title: Week 3
 date: '2021-01-01'
 type: book
-weight: 40
+weight: 30
 ---
 
-Week 3: Relationships between classes and Encapsulation
+Relationships between classes and Encapsulation
 
 <!--more-->
 
