@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses</title><link>https://jdposada.github.io/courses/</link><atom:link href="https://jdposada.github.io/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Courses</title><link>https://jdposada.github.io/courses/</link></image><item><title>Week 1</title><link>https://jdposada.github.io/courses/course/oop/week1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week1/</guid><description>&lt;p>Week 1 OOP&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses</title><link>https://jdposada.github.io/courses/</link><atom:link href="https://jdposada.github.io/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Courses</title><link>https://jdposada.github.io/courses/</link></image><item><title>Week 1</title><link>https://jdposada.github.io/courses/course/oop/week1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week1/</guid><description>&lt;p>Introduction to OOP&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="assignment">Assignment&lt;/h2>
@@ -102,7 +102,7 @@
 &lt;li>Python&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week2/</guid><description>&lt;p>Week 2: Classes and Objects&lt;/p>
+&lt;/details></description></item><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/oop/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week2/</guid><description>&lt;p>Classes and Objects&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 4 - 6 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
@@ -200,7 +200,7 @@
 &lt;li>On a Virtual Machine on the Cloud&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Week 3: Relationships between classes and Encapsulation&lt;/p>
+&lt;/details></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/oop/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week3/</guid><description>&lt;p>Relationships between classes and Encapsulation&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
@@ -293,7 +293,34 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>Once created you cannot change the contents of a tuple. This characteristic is called &lt;em>immutable&lt;/em>.&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/bioinf/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week5/</guid><description>&lt;p>Week 5: Analytical Use cases with Clinical Data&lt;/p>
+&lt;/details></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/oop/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week4/</guid><description>&lt;p>Python Refresher and Basic Inheritance&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Slides&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1eWx7L2RfxmfWL7xL9umvxCgU855xy5bcnBRRm33f8kI/edit?usp=sharing" target="_blank" rel="noopener">Case Study: Iris Dataset Classification Problem&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1216uL3GXLOr7Lo2zRN93AznPA5pIQ6-a72ZlICYZFQ0/edit?usp=sharing" target="_blank" rel="noopener">Basic Inheritance&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Run inside the dev container and/or the virtual machine on Azure within VS Code
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/concept_image.py" target="_blank" rel="noopener">concept_image.py&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/distance_images.py" target="_blank" rel="noopener">distance_images.py&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bring an idea for the project you want to work on. We will discuss your idea during regular class time on Thursday&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Here a &lt;a href="https://code.visualstudio.com/docs/python/jupyter-support-py#_jupyter-code-cells" target="_blank" rel="noopener">link&lt;/a> with a description about the Jupyter cells that we are using in the code you need to run as assignment this week. Is a slightly different way to run a jupyter notebook using an interactive window.&lt;/p>
+&lt;p>Below a short video that have a brief explanation about this feature in VS code&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/lwN4-W1WR84" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/bioinf/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week5/</guid><description>&lt;p>Week 5: Analytical Use cases with Clinical Data&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -370,34 +397,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Note:&lt;/strong> If you do not understand everything is ok. We will discuss the packages and papers during class&lt;/p>
-&lt;h2 id="learn">Learn&lt;/h2></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/oop/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week4/</guid><description>&lt;p>Week 4: Python Refresher and Basic Inheritance&lt;/p>
-&lt;p>
-&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
-&lt;h2 id="class-content">Class content&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Slides&lt;/strong>
-&lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/1eWx7L2RfxmfWL7xL9umvxCgU855xy5bcnBRRm33f8kI/edit?usp=sharing" target="_blank" rel="noopener">Case Study: Iris Dataset Classification Problem&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/1216uL3GXLOr7Lo2zRN93AznPA5pIQ6-a72ZlICYZFQ0/edit?usp=sharing" target="_blank" rel="noopener">Basic Inheritance&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="assignments">Assignments&lt;/h2>
-&lt;ul>
-&lt;li>Run inside the dev container and/or the virtual machine on Azure within VS Code
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/concept_image.py" target="_blank" rel="noopener">concept_image.py&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/jdposada/oop_202201/blob/main/src/ch_01/distance_images.py" target="_blank" rel="noopener">distance_images.py&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Bring an idea for the project you want to work on. We will discuss your idea during regular class time on Thursday&lt;/li>
-&lt;/ul>
-&lt;h2 id="learn">Learn&lt;/h2>
-&lt;p>Here a &lt;a href="https://code.visualstudio.com/docs/python/jupyter-support-py#_jupyter-code-cells" target="_blank" rel="noopener">link&lt;/a> with a description about the Jupyter cells that we are using in the code you need to run as assignment this week. Is a slightly different way to run a jupyter notebook using an interactive window.&lt;/p>
-&lt;p>Below a short video that have a brief explanation about this feature in VS code&lt;/p>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/lwN4-W1WR84" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/intros/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week5/</guid><description>&lt;p>Dataframes part 1: Open data by MinTIC + Pandas + Variables types&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -438,7 +438,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>Because they allow you to manipulate, transform and visualize data very easily in a programmatic and repeatable way.&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/oop/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week5/</guid><description>&lt;p>Week 5: Objects in Python - Basic Inheritance and Polymorphism&lt;/p>
+&lt;/details></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/oop/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week5/</guid><description>&lt;p>Objects in Python - Basic Inheritance and Polymorphism&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
@@ -506,18 +506,12 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;li>Density plots&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/oop/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week6/</guid><description>&lt;p>Week 6: Objects in Python - Exception management, class properties and decorators in Python&lt;/p>
+&lt;/details></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/oop/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week6/</guid><description>&lt;p>Objects in Python&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
 &lt;ul>
-&lt;li>Practical Class: We will continue covering objects in python and its implementation details. We will implement portions of our case study.&lt;/li>
-&lt;li>Theoretical Class:
-&lt;ul>
-&lt;li>Exception management&lt;/li>
-&lt;li>Properties and decorators&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;li>Review of classes implementation in Python&lt;/li>
 &lt;/ul>
 &lt;h3 id="in-class-activity">In-class activity&lt;/h3>
 &lt;ul>
@@ -580,7 +574,45 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;li>It provides easier and faster access to the files stored on GDrive&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/intros/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week8/</guid><description>&lt;p>Seaborn and Aggregation Functions part 1: One Level Aggregation&lt;/p>
+&lt;/details></description></item><item><title>Week 7</title><link>https://jdposada.github.io/courses/course/oop/week7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week7/</guid><description>&lt;p>Review of implementation of clases in Python - Functional and non-functional requirements&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Practical Class:
+&lt;ul>
+&lt;li>Conference on Auditorium: You should go to the auditorium and attend the event described on the flyer below. While in the event please use the hashtag #colist2022 to disseminate the event on your social networks. You should post about at least two conferences. After doing so, please post the link with the public post in &lt;a href="https://forms.gle/e4xLRDNen1Ad9FAV7" target="_blank" rel="noopener">this Google Form&lt;/a> for bonus points on your first partial exam.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >
+&lt;img alt="" srcset="
+/courses/media/20220316_acofi_uninorte_huc79e00f72a941b0be0baabf3377f3134_145621_3f841b9df2d78bf6e9182b501ac8d2ee.jpg 400w,
+/courses/media/20220316_acofi_uninorte_huc79e00f72a941b0be0baabf3377f3134_145621_e797b68c7449e6743808659109ac5d03.jpg 760w,
+/courses/media/20220316_acofi_uninorte_huc79e00f72a941b0be0baabf3377f3134_145621_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://jdposada.github.io/courses/courses/media/20220316_acofi_uninorte_huc79e00f72a941b0be0baabf3377f3134_145621_3f841b9df2d78bf6e9182b501ac8d2ee.jpg"
+width="428"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;ul>
+&lt;li>Theoretical Class: We will review the implementation of classes in Python and type hints. We will also review functional and non-functional requirements.&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>You need to finish your two page document assignment from prior week.&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice video about type hints in Python&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/6KidYEtspNc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/li>
+&lt;/ul></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/intros/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week8/</guid><description>&lt;p>Seaborn and Aggregation Functions part 1: One Level Aggregation&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -610,7 +642,39 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;li>To group and summarize for a set of specific categories or values a column may have&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
+&lt;/details></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/oop/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week8/</guid><description>&lt;p>Abstract Base Classes and Operator Overloading - Modules and Packages in Python&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 3 - 4 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Practical Class:
+&lt;ul>
+&lt;li>&lt;a href="https://docs.python.org/3.9/tutorial/modules.html" target="_blank" rel="noopener">Modules and Packages in Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Theoretical Class:
+&lt;ul>
+&lt;li>&lt;a href="https://www.geeksforgeeks.org/abstract-classes-in-python/" target="_blank" rel="noopener">Abstract Base Classes&lt;/a> and &lt;a href="https://www.geeksforgeeks.org/operator-overloading-in-python/" target="_blank" rel="noopener">Operator Overloading&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Watch the videos with lessons about exception management, properties and decorators in Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Exception management in Python&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/nlCKrKGHSSk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;strong>Properties and Decorators in Python&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/jCzT9XFZ5bw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
 &lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
 &lt;p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p></description></item><item><title>Richard Hendricks Wins First Place in the Wowchemy Prize</title><link>https://jdposada.github.io/courses/post/20-12-01-wowchemy-prize/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-01-wowchemy-prize/</guid><description>&lt;p>Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p>
