@@ -27,8 +27,8 @@ Abstract Base Classes and Operator Overloading - Modules and Packages in Python
 
 - **Exception management in Python**
 
-{{< youtube  >}}
+{{< youtube nlCKrKGHSSk >}}
 
 - **Properties and Decorators in Python**
 
-{{< youtube  >}}
+{{< youtube jCzT9XFZ5bw >}}
