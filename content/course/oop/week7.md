@@ -29,4 +29,4 @@ Review of implementation of clases in Python - Functional and non-functional req
 
 Below a nice video about type hints in Python
 
-- {{< youtube 6KidYEtspNc&t >}}
+- {{< youtube 6KidYEtspNc >}}
