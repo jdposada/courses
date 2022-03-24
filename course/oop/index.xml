@@ -272,8 +272,13 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>Theoretical Class:
 &lt;ul>
 &lt;li>&lt;a href="https://www.geeksforgeeks.org/abstract-classes-in-python/" target="_blank" rel="noopener">Abstract Base Classes&lt;/a> and &lt;a href="https://www.geeksforgeeks.org/operator-overloading-in-python/" target="_blank" rel="noopener">Operator Overloading&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1ZOGgrCkPgzLMNXJuzotIJjFbA4rYmhs0LJZV0Wy4JLU/edit?usp=sharing" target="_blank" rel="noopener">Class slides&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-class Activity&lt;/h3>
+&lt;ul>
+&lt;li>Read the code inside our &lt;a href="https://github.com/jdposada/oop_202201" target="_blank" rel="noopener">repo&lt;/a> in the path &lt;code>oop_202201/chapters/ch_06/src/model.py&lt;/code> and present your understanding of the code during class&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
