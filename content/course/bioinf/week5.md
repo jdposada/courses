@@ -2,10 +2,10 @@
 title: Week 5
 date: '2021-01-01'
 type: book
-weight: 40
+weight: 50
 ---
 
-Week 5: Analytical Use cases with Clinical Data
+Analytical Use cases with Clinical Data
 
 <!--more-->
 

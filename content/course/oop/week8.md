@@ -5,7 +5,7 @@ type: book
 weight: 80
 ---
 
-Abstract Base Classes and Operator Overloading - Modules and Packages in Python
+Abstract Base Classes - Modules and Packages in Python
 
 <!--more-->
 

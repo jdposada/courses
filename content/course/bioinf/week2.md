@@ -5,7 +5,7 @@ type: book
 weight: 20
 ---
 
-Week 2: Intro to Healthcare
+Intro to Healthcare
 
 <!--more-->
 

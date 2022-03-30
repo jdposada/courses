@@ -2,10 +2,10 @@
 title: Week 6
 date: '2021-01-01'
 type: book
-weight: 40
+weight: 60
 ---
 
-Week 6: Data Processing and Feature generation with clinical data
+Data Processing and Feature generation with clinical data: Part 1
 
 <!--more-->
 
@@ -13,7 +13,7 @@ Week 6: Data Processing and Feature generation with clinical data
 
 ## Class Content
 
-In this class we will start describing the methods used to process EHR data and generate features with it.
+- The class is postponed due to sickness
 
 ## Assignments
 
@@ -35,7 +35,5 @@ In this class we will start describing the methods used to process EHR data and 
 
 **Note:** If you do not understand everything is ok. We will discuss the packages and papers during class
 
-
-## Learn
 
 

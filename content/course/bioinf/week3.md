@@ -5,7 +5,7 @@ type: book
 weight: 30
 ---
 
-Week 3: Clinical Data and Standardization
+Clinical Data and Standardization
 
 <!--more-->
 
