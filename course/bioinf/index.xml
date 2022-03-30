@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 Bioinformatics | Courses</title><link>https://jdposada.github.io/courses/course/bioinf/</link><atom:link href="https://jdposada.github.io/courses/course/bioinf/index.xml" rel="self" type="application/rss+xml"/><description>📊 Bioinformatics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>📊 Bioinformatics</title><link>https://jdposada.github.io/courses/course/bioinf/</link></image><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/bioinf/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week2/</guid><description>&lt;p>Week 2: Intro to Healthcare&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 Bioinformatics | Courses</title><link>https://jdposada.github.io/courses/course/bioinf/</link><atom:link href="https://jdposada.github.io/courses/course/bioinf/index.xml" rel="self" type="application/rss+xml"/><description>📊 Bioinformatics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Jose D. Posada</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>📊 Bioinformatics</title><link>https://jdposada.github.io/courses/course/bioinf/</link></image><item><title>Week 2</title><link>https://jdposada.github.io/courses/course/bioinf/week2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week2/</guid><description>&lt;p>Intro to Healthcare&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -38,7 +38,7 @@
 &lt;h3 id="optional">Optional&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://www.medicaldevicesuccess.com/2022/02/06/episode-79-foundation-of-ai-in-healthcare-and-medtech-with-jonathan-chen-md-phd-stanford/" target="_blank" rel="noopener">Foundation of AI in Healthcare and MedTech with Jonathan Chen, MD, PhD, Stanford&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/bioinf/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week3/</guid><description>&lt;p>Week 3: Clinical Data and Standardization&lt;/p>
+&lt;/ul></description></item><item><title>Week 3</title><link>https://jdposada.github.io/courses/course/bioinf/week3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week3/</guid><description>&lt;p>Clinical Data and Standardization&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -62,7 +62,7 @@
 &lt;p>A short tutorial on R&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/fDRa82lxzaU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/bioinf/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week4/</guid><description>&lt;p>Week 4: Clinical Data and Standardization&lt;/p>
+&lt;/div></description></item><item><title>Week 4</title><link>https://jdposada.github.io/courses/course/bioinf/week4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week4/</guid><description>&lt;p>Clinical Data and Standardization&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -108,7 +108,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>A short video about &lt;em>Lessons Learned Converting Patient-Level Data to the OMOP Common Data Model to Support the COVID-19 Crisis&lt;/em>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/c08rXeUyFWM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/bioinf/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week5/</guid><description>&lt;p>Week 5: Analytical Use cases with Clinical Data&lt;/p>
+&lt;/div></description></item><item><title>Week 5</title><link>https://jdposada.github.io/courses/course/bioinf/week5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week5/</guid><description>&lt;p>Analytical Use cases with Clinical Data&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -147,11 +147,13 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h3 id="a-short-introduction-to-sql">A short introduction to &lt;strong>SQL&lt;/strong>&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/zbMHLJ0dY4w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/bioinf/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week6/</guid><description>&lt;p>Week 6: Data Processing and Feature generation with clinical data&lt;/p>
+&lt;/div></description></item><item><title>Week 6</title><link>https://jdposada.github.io/courses/course/bioinf/week6/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week6/</guid><description>&lt;p>Data Processing and Feature generation with clinical data: Part 1&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
-&lt;p>In this class we will start describing the methods used to process EHR data and generate features with it.&lt;/p>
+&lt;ul>
+&lt;li>The class is postponed due to sickness&lt;/li>
+&lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
 &lt;li>Read all the mandatory readings&lt;/li>
@@ -184,5 +186,45 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Note:&lt;/strong> If you do not understand everything is ok. We will discuss the packages and papers during class&lt;/p>
-&lt;h2 id="learn">Learn&lt;/h2></description></item></channel></rss>
+&lt;p>&lt;strong>Note:&lt;/strong> If you do not understand everything is ok. We will discuss the packages and papers during class&lt;/p></description></item><item><title>Week 7</title><link>https://jdposada.github.io/courses/course/bioinf/week7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week7/</guid><description>&lt;p>Data Processing and Feature generation with clinical data: Part 1&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>In this class we will start describing the methods used to process EHR data and generate features with it.&lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-Class Activity&lt;/h3>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Read all the mandatory readings&lt;/li>
+&lt;/ul>
+&lt;h2 id="readings">Readings&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/bioinf/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week8/</guid><description>&lt;p>Data Processing and Feature generation with clinical data: Part 2&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>In this class we will describe methods to generate features&lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-Class Activity&lt;/h3>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="readings">Readings&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul></description></item></channel></rss>

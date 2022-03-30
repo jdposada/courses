@@ -259,7 +259,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;iframe src="https://www.youtube.com/embed/6KidYEtspNc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;/li>
-&lt;/ul></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/oop/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week8/</guid><description>&lt;p>Abstract Base Classes and Operator Overloading - Modules and Packages in Python&lt;/p>
+&lt;/ul></description></item><item><title>Week 8</title><link>https://jdposada.github.io/courses/course/oop/week8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week8/</guid><description>&lt;p>Abstract Base Classes - Modules and Packages in Python&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 3 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
@@ -296,4 +296,35 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/jCzT9XFZ5bw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Week 9</title><link>https://jdposada.github.io/courses/course/oop/week9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week9/</guid><description>&lt;p>Abstract Base classes&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Practical Class:
+&lt;ul>
+&lt;li>We will cover the specifics of the coding of abstract base classes and test some code&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Theoretical Class:
+&lt;ul>
+&lt;li>We will continue our deep dive on abstract base classes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-class Activity&lt;/h3>
+&lt;ul>
+&lt;li>Follow up the code from our repo&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Next Thursday April 7th we will have a session to present the projects.&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Python OOP Tutorial&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>This video is mostly a refresher of concepts we have covered in class&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/_uYorV9ebLg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item></channel></rss>
