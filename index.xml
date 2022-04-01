@@ -559,13 +559,16 @@ It is important you remember that is is ok if you do not understand everything y
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
-&lt;li>Read all the mandatory readings&lt;/li>
+&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="readings">Readings&lt;/h2>
 &lt;ul>
 &lt;li>&lt;/li>
 &lt;/ul>
-&lt;h2 id="learn">Learn&lt;/h2></description></item><item><title>Week 7</title><link>https://jdposada.github.io/courses/course/intros/week7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week7/</guid><description>&lt;p>Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul></description></item><item><title>Week 7</title><link>https://jdposada.github.io/courses/course/intros/week7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week7/</guid><description>&lt;p>Dataframes part 2: Pandas + Matplotlib + Seaborn&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -637,15 +640,22 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>In this class we will describe methods to generate features&lt;/li>
+&lt;li>In this class we will describe methods to generate:
+&lt;ul>
+&lt;li>Features from advance deep learning models such as &lt;a href="https://www.nature.com/articles/s41598-020-62922-y" target="_blank" rel="noopener">BEHRT&lt;/a>&lt;/li>
+&lt;li>Features from clinical text using Dictionary Lookups, entity Linking or Name Entity Recognition.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="in-class-activity">In-Class Activity&lt;/h3>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>Follow the OHDSI PLP example to create a simple Deep Learning Model using Eunomia as the dataset&lt;/li>
+&lt;li>Create a Dockerfile to create a Docker Image that enables to run &lt;a href="https://github.com/medspacy/medspacy" target="_blank" rel="noopener">medspacy&lt;/a>.&lt;/li>
+&lt;li>Follow a simple example to create a Jupyter Notebook that uses the Docker Image and runs medspacy on sample text.&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>Your assignment this week is to prepare for the first partial exam&lt;/li>
 &lt;/ul>
 &lt;h2 id="readings">Readings&lt;/h2>
 &lt;ul>
@@ -721,7 +731,44 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/jCzT9XFZ5bw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Week 9</title><link>https://jdposada.github.io/courses/course/oop/week9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week9/</guid><description>&lt;p>Abstract Base classes&lt;/p>
+&lt;/div></description></item><item><title>Week 9</title><link>https://jdposada.github.io/courses/course/bioinf/week9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/bioinf/week9/</guid><description>&lt;p>First Partial Exam&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 4 Hours&lt;/p>
+&lt;h3 id="in-class-activity">In-Class Activity&lt;/h3>
+&lt;ul>
+&lt;li>During class you will be doing our first partial exam individually. Please go to this &lt;a href="https://github.com/jdposada/bioinf_202210/tree/main/exams/first" target="_blank" rel="noopener">link&lt;/a> for the questions and details&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Next week you will need to present the preliminary version of your final project. This presentation accounts for 10% of your final grade in the course. You will have 15 minutes to present your idea. Be sure to cover the following:
+&lt;ul>
+&lt;li>Problem Description: This i a description of the problem on the context of healthcare.&lt;/li>
+&lt;li>Proposed Solution: This is a description of the methods&lt;/li>
+&lt;li>Data Sources Description&lt;/li>
+&lt;li>Proposed Technologies to be used&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="readings">Readings&lt;/h2>
+&lt;ul>
+&lt;li>Please read &lt;a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01505-z" target="_blank" rel="noopener">this&lt;/a> article to have a good sense of what is a good predictive model project
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ohdsi-studies/Covid19PredictionStudies" target="_blank" rel="noopener">Github Code repository for the project&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>Nice video of an external validation of an existing predictive model
+&lt;ul>
+&lt;li>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/TKi310QUxag" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Week 9</title><link>https://jdposada.github.io/courses/course/oop/week9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week9/</guid><description>&lt;p>Abstract Base classes&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class content&lt;/h2>
