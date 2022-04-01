@@ -21,7 +21,7 @@ Data Processing and Feature generation with clinical data: Part 1
 
 ## Assignments
 
-- Read all the mandatory readings
+- 
 
 
 ## Readings
@@ -31,4 +31,5 @@ Data Processing and Feature generation with clinical data: Part 1
 
 ## Learn
 
+- 
 
