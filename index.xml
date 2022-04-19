@@ -824,7 +824,48 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>&lt;em>You should not be so defensive&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item><item><title>Week 12</title><link>https://jdposada.github.io/courses/course/intros/week12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week12/</guid><description>&lt;p>Aggregation with Pandas&lt;/p>
+&lt;/details></description></item><item><title>Week 10</title><link>https://jdposada.github.io/courses/course/oop/week10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week10/</guid><description>&lt;p>First Partial and Exam and Preliminary Project Presentation&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Practical Class:
+&lt;ul>
+&lt;li>We will cover the specifics of the coding of abstract base classes and test some code&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Theoretical Class:
+&lt;ul>
+&lt;li>We will continue our deep dive on abstract base classes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-class Activity&lt;/h3>
+&lt;ul>
+&lt;li>Project presentation
+&lt;ul>
+&lt;li>You will need to present your project in 3 minutes.&lt;/li>
+&lt;li>While your classmates present their projects you will need to evaluate them using the following forms
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfac7T-I4U-gAzLByNQGLquUvJdx7hmV8GQoZClHpDO5ZooVQ/viewform?usp=sf_link" target="_blank" rel="noopener">2110-01&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe6BOhoEBkDf3Lj5JIeBTRnrDuSG89wia6jjpzZW2xGlCDMKQ/viewform?usp=sf_link" target="_blank" rel="noopener">2110-02&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>Next Thursday April 7th we will have a session to present the projects.&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Python OOP Tutorial&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>This video is mostly a refresher of concepts we have covered in class&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/_uYorV9ebLg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Week 12</title><link>https://jdposada.github.io/courses/course/intros/week12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week12/</guid><description>&lt;p>Aggregation with Pandas&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
@@ -856,6 +897,61 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;summary>What are the three steps that the &lt;em>group by&lt;/em> function do?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>Split -&amp;gt; Apply -&amp;gt; Combine&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 12</title><link>https://jdposada.github.io/courses/course/oop/week12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week12/</guid><description>&lt;p>Final Projects In-Class Work&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Final Projects&lt;/li>
+&lt;/ul>
+&lt;h3 id="in-class-activity">In-class Activity&lt;/h3>
+&lt;ul>
+&lt;li>Wednesday Class:
+&lt;ul>
+&lt;li>Final project programming
+&lt;ul>
+&lt;li>Create a public Github Repository for your project and initialize it with a README.md. If you are not sure on how to do that watch &lt;a href="https://www.youtube.com/watch?v=iv8rSLsi1xo" target="_blank" rel="noopener">this Youtube video&lt;/a>.&lt;/li>
+&lt;li>Write the skeleton of all classes proposed on your UML&lt;/li>
+&lt;li>Write one functional requirement. If the functional requirement is too big, break it down into small tasks. Then select one of those tasks that should be achievable in the 2 hour class time.&lt;/li>
+&lt;li>Push the changes to your public Github Repository&lt;/li>
+&lt;li>Fill &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdwYCKeS7jZX8bQyua4oU_m7exgWc36I2YJ0Kl3E77Ru0RFzg/viewform?usp=sf_link" target="_blank" rel="noopener">this Google Form&lt;/a> so your classmates know your repo&lt;/li>
+&lt;li>Optional: Peek at least one repo for your classmates before Thursday class. The repos will be in &lt;a href="https://docs.google.com/spreadsheets/d/12-bmVhjfaQKf-HEuE0VAa1rmO453ledL8TEK9K5Z5Gk/edit?usp=sharing" target="_blank" rel="noopener">this Google Spreadsheet&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Thursday Class
+&lt;ul>
+&lt;li>You will present the implementation of one basic functional requirement of your project in 3 minutes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;p>The assignments below should be done by Wednesday April 27th by our class time.&lt;/p>
+&lt;ul>
+&lt;li>Watch the video about how to give meaningful feedback&lt;/li>
+&lt;li>Review the feedback your classmates gave to your presentation. Use it to improve.
+- &lt;a href="https://docs.google.com/spreadsheets/d/1bCuPKa4b9wHmyTkgECWfjqBCp2bzyJ3zohchZnZIdkU/edit?usp=sharing" target="_blank" rel="noopener">2110-01&lt;/a>
+- &lt;a href="https://docs.google.com/spreadsheets/d/1_4iK38bSGxO9AyyH5DbWDgmX6GEpFxuzuqkOvXh_pnY/edit?usp=sharing" target="_blank" rel="noopener">2110-02&lt;/a>&lt;/li>
+&lt;li>Read chapter 8 of TextBook
+&lt;ul>
+&lt;li>&lt;em>The intersection between Object Oriented Programming and Functional Programming&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>How to give good and meaningful Feedback&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/wtl5UrrgU8c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What are two &lt;em>Blur&lt;/em> words that we should avoid when giving feedback?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>&lt;em>You could be more proactive&lt;/em>&lt;/li>
+&lt;li>&lt;em>You should not be so defensive&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
