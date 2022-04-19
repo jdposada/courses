@@ -34,8 +34,8 @@ The assignments below should be done by Wednesday April 27th by our class time.
 
 - Watch the video about how to give meaningful feedback
 - Review the feedback your classmates gave to your presentation. Use it to improve.
-        - [2110-01](https://docs.google.com/spreadsheets/d/1bCuPKa4b9wHmyTkgECWfjqBCp2bzyJ3zohchZnZIdkU/edit?usp=sharing)
-        - [2110-02](https://docs.google.com/spreadsheets/d/1_4iK38bSGxO9AyyH5DbWDgmX6GEpFxuzuqkOvXh_pnY/edit?usp=sharing) 
+    - [2110-01](https://docs.google.com/spreadsheets/d/1bCuPKa4b9wHmyTkgECWfjqBCp2bzyJ3zohchZnZIdkU/edit?usp=sharing)
+    - [2110-02](https://docs.google.com/spreadsheets/d/1_4iK38bSGxO9AyyH5DbWDgmX6GEpFxuzuqkOvXh_pnY/edit?usp=sharing) 
 - Read chapter 8 of TextBook
     - *The intersection between Object Oriented Programming and Functional Programming*
 
