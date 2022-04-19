@@ -14,7 +14,7 @@ Seaborn and Aggregation Functions part 1: One Level Aggregation
 
 ## Class Content
 
-- Google Colab Jupyter Notebook
+- [Google Colab Jupyter Notebook](https://colab.research.google.com/drive/1BfPdA2sUm0VGigT4WeOlWn0eWoE3UIzP?usp=sharing)
 - [Pandas group by function](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html)
 
 ## Assignments
