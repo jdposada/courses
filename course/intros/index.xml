@@ -169,7 +169,7 @@
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1BfPdA2sUm0VGigT4WeOlWn0eWoE3UIzP?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html" target="_blank" rel="noopener">Pandas group by function&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
@@ -192,6 +192,65 @@
 &lt;summary>When should I use the &lt;code>group by&lt;/code> function?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>To group and summarize for a set of specific categories or values a column may have&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 10</title><link>https://jdposada.github.io/courses/course/intros/week10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week10/</guid><description>&lt;p>Project summaries Feedback and Improvement&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>You will be doing independent work in this class. Please do the assignments in the section below&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>You need to review the abstracts that your classmates sent in this &lt;a href="https://docs.google.com/spreadsheets/d/1z7iFLFmeqvXLRD7JAVEICBhU-0dzgJLhvoOAwB_W5HI/edit#gid=150742468" target="_blank" rel="noopener">link&lt;/a> and use that to improve your own. You could also give feedback to then. Pease use the guide below to give meaningful feedback.&lt;/li>
+&lt;li>When you finish reviewing and giving feedback please update your abstract in &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScMJy7-hT-nl5rtBvQ8bvgeHUGuxdkfszsC-SGgQsI5VJEQpg/viewform?usp=sf_link" target="_blank" rel="noopener">this Google Form&lt;/a>. It is the same link as the one you used before.&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>How to give good and meaningful Feedback&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/wtl5UrrgU8c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What are two &lt;em>Blur&lt;/em> words that we should avoid when giving feedback?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>&lt;em>You could be more proactive&lt;/em>&lt;/li>
+&lt;li>&lt;em>You should not be so defensive&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 12</title><link>https://jdposada.github.io/courses/course/intros/week12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week12/</guid><description>&lt;p>Aggregation with Pandas&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;p>Today we will focus&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1pUZfTVW_qb56_3L790RLIsT_Rk4GeP2C?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/docs/user_guide/groupby.html" target="_blank" rel="noopener">Pandas Aggregation Concepts&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>You will need to evaluate your classmates abstracts.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/1z7iFLFmeqvXLRD7JAVEICBhU-0dzgJLhvoOAwB_W5HI/edit?resourcekey#gid=150742468" target="_blank" rel="noopener">Link&lt;/a> with your classmates abstracts&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSceAN-Rwr_KGxRI49mxanPSyrqOTp_yxPx305EOSh_zrDrxQQ/viewform?usp=sf_link" target="_blank" rel="noopener">Link&lt;/a> with the Google form you will use to evaluate them&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>The deadline to submit your reviews is tomorrow April 20th at 11:00 AM&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice video Tutorial for Aggregation with Pandas. That is the source of the examples used in class&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/DUgd48QYmfI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What are the three steps that the &lt;em>group by&lt;/em> function do?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Split -&amp;gt; Apply -&amp;gt; Combine&lt;/li>
 &lt;/ul>
 &lt;/p>
 &lt;/details></description></item></channel></rss>

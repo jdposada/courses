@@ -669,7 +669,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2 - 3 Hours&lt;/p>
 &lt;h2 id="class-content">Class Content&lt;/h2>
 &lt;ul>
-&lt;li>Google Colab Jupyter Notebook&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1BfPdA2sUm0VGigT4WeOlWn0eWoE3UIzP?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html" target="_blank" rel="noopener">Pandas group by function&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="assignments">Assignments&lt;/h2>
@@ -799,7 +799,66 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>This video is mostly a refresher of concepts we have covered in class&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/_uYorV9ebLg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
+&lt;/div></description></item><item><title>Week 10</title><link>https://jdposada.github.io/courses/course/intros/week10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week10/</guid><description>&lt;p>Project summaries Feedback and Improvement&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;ul>
+&lt;li>You will be doing independent work in this class. Please do the assignments in the section below&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>You need to review the abstracts that your classmates sent in this &lt;a href="https://docs.google.com/spreadsheets/d/1z7iFLFmeqvXLRD7JAVEICBhU-0dzgJLhvoOAwB_W5HI/edit#gid=150742468" target="_blank" rel="noopener">link&lt;/a> and use that to improve your own. You could also give feedback to then. Pease use the guide below to give meaningful feedback.&lt;/li>
+&lt;li>When you finish reviewing and giving feedback please update your abstract in &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScMJy7-hT-nl5rtBvQ8bvgeHUGuxdkfszsC-SGgQsI5VJEQpg/viewform?usp=sf_link" target="_blank" rel="noopener">this Google Form&lt;/a>. It is the same link as the one you used before.&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>How to give good and meaningful Feedback&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/wtl5UrrgU8c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What are two &lt;em>Blur&lt;/em> words that we should avoid when giving feedback?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>&lt;em>You could be more proactive&lt;/em>&lt;/li>
+&lt;li>&lt;em>You should not be so defensive&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Week 12</title><link>https://jdposada.github.io/courses/course/intros/week12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week12/</guid><description>&lt;p>Aggregation with Pandas&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;p>Today we will focus&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/drive/1pUZfTVW_qb56_3L790RLIsT_Rk4GeP2C?usp=sharing" target="_blank" rel="noopener">Google Colab Jupyter Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/docs/user_guide/groupby.html" target="_blank" rel="noopener">Pandas Aggregation Concepts&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>You will need to evaluate your classmates abstracts.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/1z7iFLFmeqvXLRD7JAVEICBhU-0dzgJLhvoOAwB_W5HI/edit?resourcekey#gid=150742468" target="_blank" rel="noopener">Link&lt;/a> with your classmates abstracts&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSceAN-Rwr_KGxRI49mxanPSyrqOTp_yxPx305EOSh_zrDrxQQ/viewform?usp=sf_link" target="_blank" rel="noopener">Link&lt;/a> with the Google form you will use to evaluate them&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>The deadline to submit your reviews is tomorrow April 20th at 11:00 AM&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>Below a nice video Tutorial for Aggregation with Pandas. That is the source of the examples used in class&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/DUgd48QYmfI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What are the three steps that the &lt;em>group by&lt;/em> function do?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>Split -&amp;gt; Apply -&amp;gt; Combine&lt;/li>
+&lt;/ul>
+&lt;/p>
+&lt;/details></description></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
 &lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
 &lt;p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p></description></item><item><title>Richard Hendricks Wins First Place in the Wowchemy Prize</title><link>https://jdposada.github.io/courses/post/20-12-01-wowchemy-prize/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/post/20-12-01-wowchemy-prize/</guid><description>&lt;p>Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p>
