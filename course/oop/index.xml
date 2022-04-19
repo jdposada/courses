@@ -402,8 +402,11 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;ul>
 &lt;li>Watch the video about how to give meaningful feedback&lt;/li>
 &lt;li>Review the feedback your classmates gave to your presentation. Use it to improve.
-- &lt;a href="https://docs.google.com/spreadsheets/d/1bCuPKa4b9wHmyTkgECWfjqBCp2bzyJ3zohchZnZIdkU/edit?usp=sharing" target="_blank" rel="noopener">2110-01&lt;/a>
-- &lt;a href="https://docs.google.com/spreadsheets/d/1_4iK38bSGxO9AyyH5DbWDgmX6GEpFxuzuqkOvXh_pnY/edit?usp=sharing" target="_blank" rel="noopener">2110-02&lt;/a>&lt;/li>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/1bCuPKa4b9wHmyTkgECWfjqBCp2bzyJ3zohchZnZIdkU/edit?usp=sharing" target="_blank" rel="noopener">2110-01&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/1_4iK38bSGxO9AyyH5DbWDgmX6GEpFxuzuqkOvXh_pnY/edit?usp=sharing" target="_blank" rel="noopener">2110-02&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>Read chapter 8 of TextBook
 &lt;ul>
 &lt;li>&lt;em>The intersection between Object Oriented Programming and Functional Programming&lt;/em>&lt;/li>
