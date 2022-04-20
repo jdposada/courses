@@ -382,8 +382,8 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>Final project programming. &lt;strong>All mandatory 5 tasks below should be done by Wednesday 10:30 AM or 4:30 PM depending on your usual class time.&lt;/strong>
 &lt;ol>
 &lt;li>Create a public Github Repository for your project and initialize it with a README.md. If you are not sure on how to do that watch &lt;a href="https://www.youtube.com/watch?v=iv8rSLsi1xo" target="_blank" rel="noopener">this Youtube video&lt;/a>.&lt;/li>
-&lt;li>Write the skeleton of all classes proposed on your UML&lt;/li>
-&lt;li>Write one functional requirement. If the functional requirement is too big, break it down into small tasks. Then select one of those tasks that should be achievable in the 2 hour class time.&lt;/li>
+&lt;li>Implement in Python the skeleton of all classes proposed on your UML&lt;/li>
+&lt;li>IMplement in Python one functional requirement. If the functional requirement is too big, break it down into small tasks. Then select one of those tasks that should be achievable in the 2 hour class time.&lt;/li>
 &lt;li>Push the changes to your public Github Repository&lt;/li>
 &lt;li>Fill &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdwYCKeS7jZX8bQyua4oU_m7exgWc36I2YJ0Kl3E77Ru0RFzg/viewform?usp=sf_link" target="_blank" rel="noopener">this Google Form&lt;/a> so your classmates know your repo&lt;/li>
 &lt;/ol>
