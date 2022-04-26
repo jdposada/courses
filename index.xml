@@ -967,12 +967,14 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="assignments">Assignments&lt;/h2>
 &lt;p>The assignment has several steps. Please follow all of them in order and carefully. If you have any questions please email me.&lt;/p>
 &lt;ul>
-&lt;li>
-&lt;p>Open a &lt;a href="www.github.com">Github&lt;/a> Account with your university email. If you already have one please add the university email.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Request the &lt;a href="https://education.github.com/pack" target="_blank" rel="noopener">Github Student Developer Pack&lt;/a>. For this you may need to take a photo to the University ID and upload it. Example below&lt;/p>
-&lt;/li>
+&lt;li>Open a &lt;a href="www.github.com">Github&lt;/a> Account with your university email. If you already have one please add the university email.&lt;/li>
+&lt;li>Request the &lt;a href="https://education.github.com/pack" target="_blank" rel="noopener">Github Student Developer Pack&lt;/a>. For this you may need to take a photo to the University ID and upload it. Example below&lt;/li>
+&lt;/ul>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="foto_carne.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;ul>
 &lt;li>
 &lt;p>Go to this &lt;a href="https://classroom.github.com/a/_1d1YOW6" target="_blank" rel="noopener">link&lt;/a> from a GitHub Classroom and accept the invitation. There will be an assignment for you there. Have fun!&lt;/p>
 &lt;/li>
@@ -990,7 +992,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;iframe src="https://www.youtube.com/embed/8JJ101D3knE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
-&lt;details class="spoiler " id="spoiler-3">
+&lt;details class="spoiler " id="spoiler-4">
 &lt;summary>What is the primary function of GitHub?&lt;/summary>
 &lt;p>&lt;ul>
 &lt;li>GitHub is a version control system to store your code with all its versions and collaborate with fellow coders&lt;/li>
