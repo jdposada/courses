@@ -23,6 +23,9 @@ The assignment has several steps. Please follow all of them in order and careful
 
 - Open a [Github](www.github.com) Account with your university email. If you already have one please add the university email. 
 - Request the [Github Student Developer Pack](https://education.github.com/pack). For this you may need to take a photo to the University ID and upload it. Example below
+
+{{< figure src="foto_carne.jpg" >}}
+
 - Go to this [link](https://classroom.github.com/a/_1d1YOW6) from a GitHub Classroom and accept the invitation. There will be an assignment for you there. Have fun!
 
 
