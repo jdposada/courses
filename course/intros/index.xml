@@ -253,4 +253,41 @@
 &lt;li>Split -&amp;gt; Apply -&amp;gt; Combine&lt;/li>
 &lt;/ul>
 &lt;/p>
+&lt;/details></description></item><item><title>Week 13</title><link>https://jdposada.github.io/courses/course/intros/week13/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/intros/week13/</guid><description>&lt;p>Introduction to GitHub&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1 - 2 Hours&lt;/p>
+&lt;h2 id="class-content">Class Content&lt;/h2>
+&lt;p>Today we will focus on GitHub, the leading platform to share code and collaborate to produce software.&lt;/p>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;p>The assignment has several steps. Please follow all of them in order and carefully. If you have any questions please email me.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Open a &lt;a href="www.github.com">Github&lt;/a> Account with your university email. If you already have one please add the university email.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Request the &lt;a href="https://education.github.com/pack" target="_blank" rel="noopener">Github Student Developer Pack&lt;/a>. For this you may need to take a photo to the University ID and upload it. Example below&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to this &lt;a href="https://classroom.github.com/a/_1d1YOW6" target="_blank" rel="noopener">link&lt;/a> from a GitHub Classroom and accept the invitation. There will be an assignment for you there. Have fun!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>The deadline to submit your work tomorrow April 27th at 11:00 AM&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;h5 id="below-a-nice-video-intro-to-github">Below a nice video intro to &lt;strong>Github&lt;/strong>&lt;/h5>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/2ReR1YJrNOM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h5 id="below-a-short-tutorial-on-github-to-help-you-with-the-assignment">Below a short tutorial on &lt;strong>Github&lt;/strong> to help you with the assignment&lt;/h5>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/8JJ101D3knE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="brief-quiz">Brief Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>What is the primary function of GitHub?&lt;/summary>
+&lt;p>&lt;ul>
+&lt;li>GitHub is a version control system to store your code with all its versions and collaborate with fellow coders&lt;/li>
+&lt;/ul>
+&lt;/p>
 &lt;/details></description></item></channel></rss>
