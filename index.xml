@@ -972,7 +972,15 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="foto_carne.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >
+&lt;img alt="" srcset="
+/courses/media/foto_carne_huebf1732a0fee05a0f1e6b5c21d7f59d6_83578_99f2b6cef276aa9763e69950b4d0d139.png 400w,
+/courses/media/foto_carne_huebf1732a0fee05a0f1e6b5c21d7f59d6_83578_6ae139c4af8edfdd0a8b0616b59b48c6.png 760w,
+/courses/media/foto_carne_huebf1732a0fee05a0f1e6b5c21d7f59d6_83578_1200x1200_fit_lanczos_3.png 1200w"
+src="https://jdposada.github.io/courses/courses/media/foto_carne_huebf1732a0fee05a0f1e6b5c21d7f59d6_83578_99f2b6cef276aa9763e69950b4d0d139.png"
+width="167"
+height="340"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;ul>
 &lt;li>
