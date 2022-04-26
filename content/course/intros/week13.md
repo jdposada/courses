@@ -22,7 +22,7 @@ Today we will focus on GitHub, the leading platform to share code and collaborat
 The assignment has several steps. Please follow all of them in order and carefully. If you have any questions please email me.
 
 - Open a [Github](www.github.com) Account with your university email. If you already have one please add the university email. 
-- Request the [Github Student Developer Pack](https://education.github.com/pack). For this you may need to take a photo to the University ID and upload it. Example below
+- Request the [Github Student Developer Pack](https://education.github.com/pack). For this you may need to take a photo to the University ID and upload it. Example below. **Please do not blur the ID** I did it because this webpage is public
 
 {{< figure src="foto_carne.png" >}}
 
