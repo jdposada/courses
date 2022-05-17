@@ -25,9 +25,9 @@ This time there is a long video that contains valuable information about the des
 ### Introduction to Design Patterns
 - [0:16](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=16s) Link to material
 - [0:50](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=50s) About the speaker
-- [1:56](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=116s) What is a Pattern?:
+- [1:56](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=116s) What is a Pattern?
 - [3:36](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=216s) Pattern Categories by Abstraction Level
-- [6:55](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=415s) Some common Python Idioms:
+- [6:55](https://www.youtube.com/watch?v=o1FZ_Bd4DSM&t=415s) Some common Python Idioms
 
 ### Design Patterns Principles
 
