@@ -428,4 +428,41 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>&lt;em>You should not be so defensive&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;/p>
-&lt;/details></description></item></channel></rss>
+&lt;/details></description></item><item><title>Week 16</title><link>https://jdposada.github.io/courses/course/oop/week16/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jdposada.github.io/courses/course/oop/week16/</guid><description>&lt;p>Object Oriented Design Patterns in Python&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 3 - 4 Hours&lt;/p>
+&lt;h2 id="class-content">Class content&lt;/h2>
+&lt;ul>
+&lt;li>Design patterns
+&lt;ul>
+&lt;li>Slides for the video below &lt;a href="https://speakerdeck.com/pycon2019/ariel-ortiz-tutorial-design-patterns-in-python-for-the-untrained-eye" target="_blank" rel="noopener">here&lt;/a>&lt;/li>
+&lt;li>Slides used in class will be posted here&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>This time there is a long video that contains valuable information about the design patterns. Below are the links to the moments the video covers the given topics.&lt;/p>
+&lt;h3 id="introduction-to-design-patterns">Introduction to Design Patterns&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=16s" target="_blank" rel="noopener">0:16&lt;/a> Link to material&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=50s" target="_blank" rel="noopener">0:50&lt;/a> About the speaker&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=116s" target="_blank" rel="noopener">1:56&lt;/a> What is a Pattern?:&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=216s" target="_blank" rel="noopener">3:36&lt;/a> Pattern Categories by Abstraction Level&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=415s" target="_blank" rel="noopener">6:55&lt;/a> Some common Python Idioms:&lt;/li>
+&lt;/ul>
+&lt;h3 id="design-patterns-principles">Design Patterns Principles&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=946s" target="_blank" rel="noopener">15:46&lt;/a> Relevance of Design Patterns&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=1423s" target="_blank" rel="noopener">23:43&lt;/a> A Brief History (GoF)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=1517s" target="_blank" rel="noopener">25:17&lt;/a> Use-based Classification of Design Patterns&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=1624s" target="_blank" rel="noopener">27:04&lt;/a> Design Principles&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=2151s" target="_blank" rel="noopener">35:51&lt;/a> Anatomy of a Design Pattern&lt;/li>
+&lt;/ul>
+&lt;h3 id="design-patterns-in-python">Design Patterns in Python&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=2257s" target="_blank" rel="noopener">37:37&lt;/a> Singleton&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=3594s" target="_blank" rel="noopener">59:54&lt;/a> Template Method&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=7248s" target="_blank" rel="noopener">2:00:48&lt;/a> Adapter&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=9584s" target="_blank" rel="noopener">2:39:44&lt;/a> Observer&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=o1FZ_Bd4DSM&amp;amp;t=11280s" target="_blank" rel="noopener">3:08:00&lt;/a> Conclusion&lt;/li>
+&lt;/ul></description></item></channel></rss>
