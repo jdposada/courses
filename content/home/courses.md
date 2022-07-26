@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: 2022-01 Courses
+title: 2022-30 Courses
 subtitle:
 content:
   page_type: book
@@ -11,7 +11,7 @@ content:
   filter_button:
     - name: All Courses
       tag: main_page
-    - name: Bioinformatics
+    - name: 2022-10 Bioinformatics
       tag: bioinf
     - name: Object Oriented Programming
       tag: oop
