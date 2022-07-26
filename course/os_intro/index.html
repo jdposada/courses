@@ -1,0 +1,338 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.2.0 for Hugo">
+<meta name=author content="Jose Posada">
+<meta name=description content="CS Assistant Professor">
+<link rel=alternate hreflang=en-us href=https://jdposada.github.io/courses/course/os_intro/>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<meta name=theme-color content="#0072ff">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin=anonymous>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<link rel=stylesheet href=/courses/css/wowchemy.36dbe287b4e3529a118f84ab8d64831e.css>
+<link rel=alternate href=/courses/course/os_intro/index.xml type=application/rss+xml title=Courses>
+<link rel=manifest href=/courses/index.webmanifest>
+<link rel=icon type=image/png href=/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://jdposada.github.io/courses/course/os_intro/>
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@@posadajd">
+<meta property="twitter:creator" content="@@posadajd">
+<meta property="og:site_name" content="Courses">
+<meta property="og:url" content="https://jdposada.github.io/courses/course/os_intro/">
+<meta property="og:title" content="📊 Operating Systems | Courses">
+<meta property="og:description" content="CS Assistant Professor"><meta property="og:image" content="https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
+<meta property="twitter:image" content="https://jdposada.github.io/courses/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+<meta property="og:updated_time" content="2022-01-02T00:00:00+00:00">
+<title>📊 Operating Systems | Courses</title>
+</head>
+<body id=top data-spy=scroll data-target=#TableOfContents class="page-wrapper no-navbar" data-wc-page-id=2f1e64cff55b74296c572d2d0f8c4a35>
+<script src=/courses/js/wowchemy-init.min.c2ae95842e5b33a787c7b8c567e989a4.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
+</aside>
+<div class=page-header>
+</div>
+<div class=page-body>
+<div class="container-fluid docs">
+<div class="row flex-xl-nowrap">
+<div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+<form class="docs-search d-flex align-items-center">
+<button class="btn docs-toggle d-md-none p-0 mr-md-3 w-100" type=button data-toggle=collapse data-target=#docs-nav aria-controls=docs-nav aria-expanded=false aria-label="Toggle section navigation">
+<div class=d-flex>
+<span class="d-md-none pl-1 flex-grow-1 text-left overflow-hidden">
+📚 Courses
+</span>
+<span><i class="fas fa-chevron-down"></i></span>
+</div>
+</button>
+<button class="form-control sidebar-search js-search d-none d-md-flex">
+<i class="fas fa-search pr-2"></i>
+<span class=sidebar-search-text>Search...</span>
+<span class=sidebar-search-shortcut>/</span>
+</button>
+</form>
+<nav class="collapse docs-links" id=docs-nav>
+<ul class="nav docs-sidenav">
+<li><a href=/courses/course/><i class="fas fa-arrow-left pr-1"></i>📚 Courses</a></li>
+</ul>
+<div class=docs-toc-item>
+<a class="docs-toc-link active" href=/courses/course/os_intro/>Operating Systems</a>
+</div>
+</nav>
+</div>
+<div class="d-none d-xl-block col-xl-2 docs-toc">
+<ul class="nav toc-top">
+<li><a href=# id=back_to_top class=docs-toc-title>Contents</a></li>
+</ul>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#what-you-will-learn>What you will learn</a></li>
+<li><a href=#course-description>Course Description</a></li>
+<li><a href=#course-justification>Course Justification</a></li>
+<li><a href=#course-schedule>Course Schedule</a></li>
+</ul>
+<ul>
+<li><a href=#meet-the-team>Meet the team</a></li>
+<li><a href=#dev-environment>Dev Environment</a>
+<ul>
+<li><a href=#office-hours>Office Hours</a></li>
+<li><a href=#ethical-code>Ethical Code</a></li>
+<li><a href=#students-with-disabilities>Students with Disabilities</a></li>
+</ul>
+</li>
+<li><a href=#references-and-links>References and links</a>
+<ul>
+<li><a href=#links-and-articles>Links and Articles</a></li>
+<li><a href=#books>Books</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role=main>
+<article class=article>
+<div class=docs-article-container>
+<nav class="d-none d-md-flex" aria-label=breadcrumb>
+<ol class=breadcrumb>
+<li class=breadcrumb-item>
+<a href=/courses/>
+Home
+</a>
+</li>
+<li class=breadcrumb-item>
+<a href=/courses/course/>
+📚 Courses
+</a>
+</li>
+<li class="breadcrumb-item active" aria-current=page>
+Operating Systems
+</li>
+</ol>
+</nav>
+<h1>📊 Operating Systems</h1>
+<div class=article-style>
+<figure>
+<div class="d-flex justify-content-center">
+<div class=w-100>
+<img alt srcset="/courses/media/bioinf_intro_hu76eaa58daf827988c1005eeac201f4e9_1602413_097ef91dc45947e34224b9d1ddc7dbd6.jpg 400w,
+/courses/media/bioinf_intro_hu76eaa58daf827988c1005eeac201f4e9_1602413_e1e2342157c84d1ea2506f485d4f01ce.jpg 760w,
+/courses/media/bioinf_intro_hu76eaa58daf827988c1005eeac201f4e9_1602413_1200x1200_fit_q75_lanczos.jpg 1200w" src=/courses/media/bioinf_intro_hu76eaa58daf827988c1005eeac201f4e9_1602413_097ef91dc45947e34224b9d1ddc7dbd6.jpg width=760 height=507 loading=lazy data-zoomable></div>
+</div></figure>
+<details class="toc-inpage d-print-none d-xl-none" open>
+<summary class=font-weight-bold>Table of Contents</summary>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#what-you-will-learn>What you will learn</a></li>
+<li><a href=#course-description>Course Description</a></li>
+<li><a href=#course-justification>Course Justification</a></li>
+<li><a href=#course-schedule>Course Schedule</a></li>
+</ul>
+<ul>
+<li><a href=#meet-the-team>Meet the team</a></li>
+<li><a href=#dev-environment>Dev Environment</a>
+<ul>
+<li><a href=#office-hours>Office Hours</a></li>
+<li><a href=#ethical-code>Ethical Code</a></li>
+<li><a href=#students-with-disabilities>Students with Disabilities</a></li>
+</ul>
+</li>
+<li><a href=#references-and-links>References and links</a>
+<ul>
+<li><a href=#links-and-articles>Links and Articles</a></li>
+<li><a href=#books>Books</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</details>
+<h2 id=what-you-will-learn>What you will learn</h2>
+<p>In this course you will learn the basics of Artificial Intelligence in Medicine. Specifically we will focus on predictive models with EHR data.</p>
+<h2 id=course-description>Course Description</h2>
+<h2 id=course-justification>Course Justification</h2>
+<h2 id=course-schedule>Course Schedule</h2>
+<div class=responsive-wrap>
+<iframe src="https://docs.google.com/spreadsheets/d/1JPEow7171ZaU39LCoPbM04CvwhMqsxsLqf-KKUUJV34/edit?usp=sharing" frameborder=0 width=960 height=569 allowfullscreen mozallowfullscreen=true webkitallowfullscreen=true></iframe>
+</div>
+<h1 id=evaluations-and-policies>Evaluations and policies</h1>
+<p>Below the items that will be part of the evaluation of this course. Please check the dates for each one of them on the course schedule</p>
+<table>
+<thead>
+<tr>
+<th style=text-align:center>Item</th>
+<th style=text-align:center>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=text-align:center>1st Partial Exam</td>
+<td style=text-align:center>35%</td>
+</tr>
+<tr>
+<td style=text-align:center>Preliminary Project</td>
+<td style=text-align:center>10%</td>
+</tr>
+<tr>
+<td style=text-align:center>2nd Partial Exam</td>
+<td style=text-align:center>20%</td>
+</tr>
+<tr>
+<td style=text-align:center>Final Project</td>
+<td style=text-align:center>35%</td>
+</tr>
+</tbody>
+</table>
+<p>Please note that:</p>
+<ul>
+<li>Grammar and spelling are just as important as technical aspects.</li>
+<li>The works must be sent by the means specified.</li>
+<li>Send your work in advance, it is possible that a day before (or the day of) delivery there will be power failures.</li>
+<li>Remember, the university campus is enabled for you.</li>
+<li>All e-mail directed concerning the course must be sent specifying to which course do you belong. Answers are usually given within 24 hours.</li>
+</ul>
+<h2 id=meet-the-team>Meet the team</h2>
+<a href=/courses/authors/admin/>Jose Posada</a>
+<h2 id=dev-environment>Dev Environment</h2>
+<p>The primary language of this course will be R</p>
+<p>We will use <a href=https://jupyter.org/ target=_blank rel=noopener>Jupyter Notebooks</a> running on <a href=https://colab.to/r target=_blank rel=noopener>Google Colab</a>. We will cover both things on the course, but feel free to peek!</p>
+<p>We will also use our Github Repo (to be posted next week). There you will find the development environment</p>
+<h3 id=office-hours>Office Hours</h3>
+<p>To schedule office hours please use the following link to reserve a time with me.</p>
+<p><a href=https://tinyurl.com/officehoursjose target=_blank rel=noopener>https://tinyurl.com/officehoursjose</a></p>
+<h3 id=ethical-code>Ethical Code</h3>
+<p><strong>Plagiarism or any form of fraud will not be tolerated.</strong></p>
+<p>Plagiarism will not be tolerated in this course. Without exception, if this situation arises, an investigation process involving the students implicated will start, and will act in accordance with the Student Regulations of the Universidad del Norte.</p>
+<p>Plagiarism includes:</p>
+<ul>
+<li>Using content without proper reference</li>
+<li>Literally or with minimal changes that do not alter the spirit of the text</li>
+<li>Acquire with or without intention, works of third parties and present them partially or totally as their own</li>
+<li>Present group work where some of the members did not work or where there was no demonstrable teamwork</li>
+<li>Other situations defined in the academic <a href=https://guayacan.uninorte.edu.co/normatividad_interna/upload/File/Guia_Prevencion_Fraude%20estudiantes%285%29.pdf target=_blank rel=noopener>fraud manual of the Universidad del Norte</a></li>
+</ul>
+<p>Additionally, all work related to this subject:</p>
+<ul>
+<li>It must be done individually, unless the teacher indicates otherwise. Impersonation is a serious offense.</li>
+<li>It must be done in the time frame specified by the teacher.</li>
+<li>You must reference third-party libraries or algorithms that have been used in the source code.</li>
+<li>It must be sent by the means defined by the teacher (Brightspace/Google Forms). In case of not using the means established for the development of the course, it will be assumed that the work was not sent (this include e-mails).</li>
+</ul>
+<h3 id=students-with-disabilities>Students with Disabilities</h3>
+<p>Please let me know if you have any documented conditions and we will do our best to provide assistance</p>
+<h2 id=references-and-links>References and links</h2>
+<h3 id=links-and-articles>Links and Articles</h3>
+<ul>
+<li><a href=https://doctorpenguin.com/newsletters target=_blank rel=noopener>https://doctorpenguin.com/newsletters</a></li>
+<li><a href=https://jamanetwork.com/journals/jama/fullarticle/2766942 target=_blank rel=noopener>Artificial Intelligence: Promise, Pitfalls, and Perspective</a></li>
+<li><a href=https://ohdsi.github.io/Hades/ target=_blank rel=noopener>HADES: Health Analytics Data-to-Evidence Suite</a></li>
+<li><a href=https://academic.oup.com/jamia/article/27/12/1921/5920826 target=_blank rel=noopener>Democratizing EHR analyses with FIDDLE: a flexible data-driven preprocessing pipeline for structured clinical data</a>
+<ul>
+<li><a href=https://github.com/MLD3/FIDDLE target=_blank rel=noopener>Github Repo</a></li>
+</ul>
+</li>
+<li><a href=https://www.jrheum.org/content/48/9/1364.abstract target=_blank rel=noopener>Predicting Response to Tocilizumab Monotherapy in Rheumatoid Arthritis: A Real-world Data Analysis Using Machine Learning</a></li>
+<li><a href=https://dl.acm.org/doi/fullHtml/10.1145/3472749.3474814 target=_blank rel=noopener>MedKnowts: Unified Documentation and Information Retrieval for Electronic Health Records</a></li>
+<li><a href=https://github.com/clinicalml/omop-learn target=_blank rel=noopener>OMOP_learn</a></li>
+<li><a href=https://www.nature.com/articles/s41746-021-00529-x target=_blank rel=noopener>The Framing of machine learning risk prediction models illustrated by evaluation of sepsis in general wards</a></li>
+<li><a href=https://www.nature.com/articles/s41467-022-28273-0 target=_blank rel=noopener>Deep phenotyping of Alzheimer’s disease leveraging electronic medical records identifies sex-specific clinical associations</a></li>
+<li><a href=https://github.com/opensaludlab/ciencia_datos target=_blank rel=noopener>Repositorio Github: Ciencia de Datos para el sector publico de la salud</a></li>
+</ul>
+<h3 id=books>Books</h3>
+<ul>
+<li>Primary Book: <a href=https://ohdsi.github.io/TheBookOfOhdsi/ target=_blank rel=noopener>The Book of OHDSI</a>. It is free to read and download</li>
+<li><a href=https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638 target=_blank rel=noopener>Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again</a></li>
+<li><a href=https://www.amazon.com/Leveraging-Data-Science-Global-Health-ebook/dp/B08F3QBRMX target=_blank rel=noopener>Leveraging Data Science for Global Health</a></li>
+<li><a href="https://www.amazon.com/Artificial-Intelligence-Medicine-Peter-Szolovits-ebook/dp/B07VB5GXMS/ref=sr_1_10?crid=1YQ99A71WAIKM&keywords=Artificial+Intelligence+In+Medicine&qid=1643912371&sprefix=artificial+intelligence+in+medicine%2Caps%2C368&sr=8-10" target=_blank rel=noopener>Artificial Intelligence In Medicine</a></li>
+</ul>
+</div>
+<div class=article-widget>
+<div class=post-nav>
+</div>
+</div>
+</div>
+<div class=body-footer>
+<p>Last updated on Jan 2, 2022</p>
+</div>
+</article>
+<footer class=site-footer>
+<p class=powered-by>
+© 2022 Jose D. Posada
+</p>
+<p class=powered-by>
+Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-modules target=_blank rel=noopener>open source</a> website builder that empowers creators.
+</p>
+</footer>
+</main>
+</div>
+</div>
+</div>
+<div class=page-footer>
+</div>
+<div id=modal class="modal fade" role=dialog>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<h5 class=modal-title>Cite</h5>
+<button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span>
+</button>
+</div>
+<div class=modal-body>
+<pre><code class="tex hljs"></code></pre>
+</div>
+<div class=modal-footer>
+<a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank>
+<i class="fas fa-copy"></i> Copy
+</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank>
+<i class="fas fa-download"></i> Download
+</a>
+<div id=modal-error></div>
+</div>
+</div>
+</div>
+</div>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin=anonymous></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin=anonymous></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin=anonymous></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin=anonymous></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js integrity="sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg==" crossorigin=anonymous></script>
+<script>anchors.add()</script>
+<script id=search-hit-fuse-template type=text/x-template>
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script>
+<script src=/courses/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js></script>
+<script src=/courses/en/js/wowchemy.min.bfc65e48a065a8cd703ec7f72362f1b8.js></script>
+</body>
+</html>
