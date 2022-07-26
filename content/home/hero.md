@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Jose Posada 2022-01 Courses 
+title: Jose Posada 2022-30 Courses 
 hero_media: student.svg
 design:
   background:
@@ -25,6 +25,6 @@ advanced:
 ---
 <br>
 
-Welcome to my courses webpage. In this webpage you will find the material for my 2022 courses.
+Welcome to my courses webpage. In this webpage you will find the material for my 2022-30 courses.
 
 Consider adding the site to your favorite [RSS feeder](https://feeder.co/) to keep up with the updated content
