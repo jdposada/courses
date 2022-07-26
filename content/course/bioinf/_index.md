@@ -4,7 +4,7 @@ linkTitle: 2022-10 Bioinformatics
 summary: 
 date: '2022-01-02'
 type: book
-weight: 30
+weight: 40
 ---
 
 <!--more-->
