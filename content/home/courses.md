@@ -21,6 +21,6 @@ content:
       tag: os_intro
 design:
   columns: '1'
-  view: 3
+  view: 4
   flip_alt_rows: false
 ---
