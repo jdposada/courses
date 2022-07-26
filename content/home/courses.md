@@ -17,6 +17,8 @@ content:
       tag: oop
     - name: Introduction to Systems Engineering
       tag: intros
+    - name: Operating Systems
+      tag: os_intro
 design:
   columns: '1'
   view: 3

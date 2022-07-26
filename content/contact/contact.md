@@ -23,4 +23,4 @@ design:
   columns: '2'
 ---
 
-You can get in touch with me by email or by requesting an appointment. To make an appointment you do not need to email me. Just use the Google Calendar link below. Be sure to login using your university account. 
+You can get in touch with me by email or by requesting an appointment. To make an appointment please email me in advance. 

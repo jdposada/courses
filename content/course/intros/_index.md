@@ -2,7 +2,7 @@
 title: 📊 Introduction to Systems Engineering
 linkTitle: Introduction to Systems Engineering
 summary: 
-date: '2022-02-01'
+date: '2022-08-01'
 type: book
 weight: 10
 ---

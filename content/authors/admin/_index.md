@@ -11,7 +11,7 @@ role: CS Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad del Norte
-  url: "posadajose.com"
+  url: "www.posadajose.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include artificial intelligence in medicine and clinical natural language processing
