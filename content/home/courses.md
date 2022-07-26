@@ -9,8 +9,8 @@ content:
   filter_default: 0
 
   filter_button:
-    # - name: All Courses
-    #   tag: main_page
+    - name: All Courses
+      tag: main_page
     - name: 2022-10 Bioinformatics
       tag: bioinf
     - name: Object Oriented Programming
@@ -20,7 +20,7 @@ content:
     - name: Operating Systems
       tag: os_intro
 design:
-  columns: '1'
+  columns: '2'
   view: 4
   flip_alt_rows: false
 ---
